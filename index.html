@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Quiz Vocabulary</title>
+    <style>
+      body {
+        font-family: Arial;
+        background: #f4f4f4;
+        padding: 30px;
+        text-align: center;
+      }
+
+      .quiz-container {
+        background: white;
+        padding: 20px;
+        border-radius: 10px;
+        display: inline-block;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        min-width: 300px;
+      }
+
+      button {
+        padding: 10px;
+        margin-top: 20px;
+        width: 100%;
+        font-size: 16px;
+      }
+
+      .option {
+        margin: 5px 0;
+        display: block;
+        font-size: 16px;
+      }
+
+      .score {
+        font-weight: bold;
+        margin-top: 20px;
+      }
+
+      #autoNextLabel {
+        display: block;
+        margin-bottom: 10px;
+      }
+
+      #progress {
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>📘 Quiz Vocabulary</h2>
+
+    <input type="file" id="csvFile" accept=".csv" />
+    <br /><br />
+
+    <label id="autoNextLabel">
+      <input type="checkbox" id="autoNext" checked />
+      ✅Auto next question
+    </label>
+
+    <div class="quiz-container" id="quiz" style="display: none">
+      <div id="progress"></div>
+      <h3 id="question">Question?</h3>
+      <div id="options"></div>
+      <button id="nextBtn" onclick="nextQuestion()">Next question</button>
+      <div class="score" id="score"></div>
+    </div>
+
+    <script>
+      let quizData = [];
+      let currentQuestion = 0;
+      let score = 0;
+      let selectedIndex = 0;
+
+      document
+        .getElementById("csvFile")
+        .addEventListener("change", function (e) {
+          const file = e.target.files[0];
+          if (!file) return;
+
+          const reader = new FileReader();
+          reader.onload = function (e) {
+            const text = e.target.result;
+            parseCSV(text);
+            shuffle(quizData);
+            document.getElementById("quiz").style.display = "block";
+            currentQuestion = 0;
+            score = 0;
+            loadQuestion();
+          };
+          reader.readAsText(file);
+        });
+
+      function parseCSV(data) {
+        const lines = data.trim().split("\n");
+        const headers = lines[0].trim().split(",");
+        const qIdx = headers.findIndex(
+          (h) => h.trim().toLowerCase() === "question"
+        );
+        const aIdx = headers.findIndex(
+          (h) => h.trim().toLowerCase() === "answer"
+        );
+
+        quizData = lines
+          .slice(1)
+          .map((line) => {
+            const parts = line.trim().split(",");
+            return {
+              question: parts[qIdx]?.trim(),
+              correct: parts[aIdx]?.trim(),
+            };
+          })
+          .filter((q) => q.question && q.correct);
+
+        quizData.forEach((q) => {
+          const wrongAnswers = quizData
+            .filter((item) => item.correct !== q.correct)
+            .map((item) => item.correct);
+          shuffle(wrongAnswers);
+          q.options = [q.correct, ...wrongAnswers.slice(0, 3)];
+          shuffle(q.options);
+        });
+      }
+
+      function shuffle(arr) {
+        for (let i = arr.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [arr[i], arr[j]] = [arr[j], arr[i]];
+        }
+      }
+
+      function loadQuestion() {
+        const questionEl = document.getElementById("question");
+        const optionsEl = document.getElementById("options");
+        const nextBtn = document.getElementById("nextBtn");
+        const progressEl = document.getElementById("progress");
+        nextBtn.style.display = "none";
+        selectedIndex = 0;
+
+        const current = quizData[currentQuestion];
+        questionEl.innerText = ` ${current.question}`;
+        progressEl.innerText = `Words ${currentQuestion + 1} / ${
+          quizData.length
+        }`;
+        optionsEl.innerHTML = "";
+
+        current.options.forEach((option) => {
+          const btn = document.createElement("button");
+          btn.className = "option";
+          btn.innerText = option;
+          btn.onclick = () => checkAnswer(option);
+          optionsEl.appendChild(btn);
+        });
+
+        highlightOption(document.querySelectorAll(".option"));
+      }
+
+      function checkAnswer(selected) {
+        const correct = quizData[currentQuestion].correct;
+        if (selected === correct) score++;
+
+        document.querySelectorAll(".option").forEach((btn) => {
+          btn.disabled = true;
+          if (btn.innerText === correct) {
+            btn.style.backgroundColor = "lightgreen";
+          } else if (btn.innerText === selected) {
+            btn.style.backgroundColor = "salmon";
+          }
+          btn.style.border = "";
+        });
+
+        const autoNext = document.getElementById("autoNext").checked;
+        const nextBtn = document.getElementById("nextBtn");
+
+        if (autoNext) {
+          setTimeout(() => nextQuestion(), 1000);
+        } else {
+          nextBtn.style.display = "block";
+        }
+      }
+
+      function nextQuestion() {
+        currentQuestion++;
+        if (currentQuestion < quizData.length) {
+          loadQuestion();
+        } else {
+          showResult();
+        }
+      }
+
+      function showResult() {
+        document.getElementById("question").innerText = "Finished!";
+        document.getElementById("progress").innerText = "";
+        document.getElementById("options").innerHTML = "";
+        document.getElementById("nextBtn").style.display = "none";
+        document.getElementById(
+          "score"
+        ).innerText = `Điểm của bạn: ${score}/${quizData.length}`;
+
+        const retryBtn = document.createElement("button");
+        retryBtn.innerText = "🔁 Re-try";
+        retryBtn.onclick = () => {
+          currentQuestion = 0;
+          score = 0;
+          shuffle(quizData);
+          quizData.forEach((q) => {
+            const wrongAnswers = quizData
+              .filter((item) => item.correct !== q.correct)
+              .map((item) => item.correct);
+            shuffle(wrongAnswers);
+            q.options = [q.correct, ...wrongAnswers.slice(0, 3)];
+            shuffle(q.options);
+          });
+          document.getElementById("score").innerText = "";
+          retryBtn.remove();
+          loadQuestion();
+        };
+        document.getElementById("quiz").appendChild(retryBtn);
+      }
+
+      function highlightOption(options) {
+        options.forEach((btn, i) => {
+          btn.style.border = i === selectedIndex ? "2px solid blue" : "";
+        });
+      }
+
+      document.addEventListener("keydown", function (e) {
+        const options = document.querySelectorAll(".option");
+        if (!options.length) return;
+
+        if (e.key.toLowerCase() === "q") {
+          selectedIndex = (selectedIndex + 1) % options.length;
+          highlightOption(options);
+        }
+
+        if (e.key === "Enter") {
+          if (!options[selectedIndex].disabled) {
+            options[selectedIndex].click();
+          }
+        }
+      });
+    </script>
+  </body>
+</html>
