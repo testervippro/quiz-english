@@ -94,36 +94,32 @@
         });
 
       function parseCSV(data) {
-        const lines = data.trim().split("\n");
-        const headers = lines[0].trim().split(",");
-        const qIdx = headers.findIndex(
-          (h) => h.trim().toLowerCase() === "question"
-        );
-        const aIdx = headers.findIndex(
-          (h) => h.trim().toLowerCase() === "answer"
-        );
+  const lines = data.trim().split("\n");
 
-        quizData = lines
-          .slice(1)
-          .map((line) => {
-            const parts = line.trim().split(",");
-            return {
-              question: parts[qIdx]?.trim(),
-              correct: parts[aIdx]?.trim(),
-            };
-          })
-          .filter((q) => q.question && q.correct);
+  quizData = lines
+    .map((line) => {
+      const parts = line.split(",");
 
-        quizData.forEach((q) => {
-          const wrongAnswers = quizData
-            .filter((item) => item.correct !== q.correct)
-            .map((item) => item.correct);
-          shuffle(wrongAnswers);
-          q.options = [q.correct, ...wrongAnswers.slice(0, 3)];
-          shuffle(q.options);
-        });
-      }
+      return {
+        question: parts[0]?.trim(),
+        correct: parts[1]?.trim(),
+      };
+    })
+    .filter((q) => q.question && q.correct);
 
+  // tạo options
+  quizData.forEach((q) => {
+    const wrongAnswers = quizData
+      .filter((item) => item.correct !== q.correct)
+      .map((item) => item.correct);
+
+    shuffle(wrongAnswers);
+
+    q.options = [q.correct, ...wrongAnswers.slice(0, 3)];
+    shuffle(q.options);
+  });
+}
+      
       function shuffle(arr) {
         for (let i = arr.length - 1; i > 0; i--) {
           const j = Math.floor(Math.random() * (i + 1));
