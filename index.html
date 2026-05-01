@@ -1,242 +1,319 @@
 <!DOCTYPE html>
 <html lang="vi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Quiz Vocabulary</title>
-    <style>
-      body {
-        font-family: Arial;
-        background: #f4f4f4;
-        padding: 30px;
-        text-align: center;
-      }
+<head>
+<meta charset="UTF-8" />
+<title>Quiz Vocabulary</title>
 
-      .quiz-container {
-        background: white;
-        padding: 20px;
-        border-radius: 10px;
-        display: inline-block;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        min-width: 300px;
-      }
+<style>
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+    padding: 30px;
+    text-align: center;
+}
 
-      button {
-        padding: 10px;
-        margin-top: 20px;
-        width: 100%;
-        font-size: 16px;
-      }
+.quiz-container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    min-width: 300px;
+}
 
-      .option {
-        margin: 5px 0;
-        display: block;
-        font-size: 16px;
-      }
+button {
+    padding: 10px;
+    margin-top: 20px;
+    width: 100%;
+    font-size: 16px;
+}
 
-      .score {
-        font-weight: bold;
-        margin-top: 20px;
-      }
+.option {
+    margin: 5px 0;
+    display: block;
+}
 
-      #autoNextLabel {
-        display: block;
-        margin-bottom: 10px;
-      }
+#progress {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+</style>
+</head>
 
-      #progress {
-        font-weight: bold;
-        margin-bottom: 10px;
-      }
-    </style>
-  </head>
-  <body>
-    <h2>📘 Quiz Vocabulary</h2>
+<body>
+
+<h2>📘 Quiz Vocabulary</h2>
+
+<!-- 🔥 INPUT SECTION -->
+<div id="inputSection">
 
     <input type="file" id="csvFile" accept=".csv" />
-    <br /><br />
+    <br><br>
 
-    <label id="autoNextLabel">
-      <input type="checkbox" id="autoNext" checked />
-      ✅Auto next question
+    <textarea id="csvText" rows="8" style="width:100%" placeholder="apple,táo"></textarea>
+    <br>
+
+    <button onclick="loadFromText()">Load Quiz</button>
+
+    <label>
+        <input type="checkbox" id="autoNext" checked>
+        Auto next
     </label>
 
-    <div class="quiz-container" id="quiz" style="display: none">
-      <div id="progress"></div>
-      <h3 id="question">Question?</h3>
-      <div id="options"></div>
-      <button id="nextBtn" onclick="nextQuestion()">Next question</button>
-      <div class="score" id="score"></div>
-    </div>
+</div>
 
-    <script>
-      let quizData = [];
-      let currentQuestion = 0;
-      let score = 0;
-      let selectedIndex = 0;
+<!-- 🔥 QUIZ -->
+<div class="quiz-container" id="quiz" style="display:none">
 
-      document
-        .getElementById("csvFile")
-        .addEventListener("change", function (e) {
-          const file = e.target.files[0];
-          if (!file) return;
+    <div id="progress"></div>
+    <h3 id="question"></h3>
+    <div id="options"></div>
 
-          const reader = new FileReader();
-          reader.onload = function (e) {
-            const text = e.target.result;
-            parseCSV(text);
-            shuffle(quizData);
-            document.getElementById("quiz").style.display = "block";
-            currentQuestion = 0;
-            score = 0;
-            loadQuestion();
-          };
-          reader.readAsText(file);
-        });
+    <button id="nextBtn" onclick="nextQuestion()">Next</button>
 
-      function parseCSV(data) {
-  const lines = data.trim().split("\n");
+    <div id="score"></div>
 
-  quizData = lines
-    .map((line) => {
-      const parts = line.split(",");
+</div>
 
-      return {
-        question: parts[0]?.trim(),
-        correct: parts[1]?.trim(),
-      };
-    })
-    .filter((q) => q.question && q.correct);
+<script>
 
-  // tạo options
-  quizData.forEach((q) => {
-    const wrongAnswers = quizData
-      .filter((item) => item.correct !== q.correct)
-      .map((item) => item.correct);
+let quizData = [];
+let currentQuestion = 0;
+let score = 0;
+let selectedIndex = 0;
 
-    shuffle(wrongAnswers);
+// ================= FILE LOAD =================
+document.getElementById("csvFile").addEventListener("change", function(e){
 
-    q.options = [q.correct, ...wrongAnswers.slice(0, 3)];
-    shuffle(q.options);
-  });
+    const file = e.target.files[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+
+    reader.onload = function(e){
+
+        startQuiz(e.target.result);
+
+    };
+
+    reader.readAsText(file);
+
+});
+
+// ================= TEXT LOAD =================
+function loadFromText(){
+
+    const text = document.getElementById("csvText").value.trim();
+
+    if (!text){
+        alert("Paste CSV first!");
+        return;
+    }
+
+    startQuiz(text);
 }
-      
-      function shuffle(arr) {
-        for (let i = arr.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [arr[i], arr[j]] = [arr[j], arr[i]];
-        }
-      }
 
-      function loadQuestion() {
-        const questionEl = document.getElementById("question");
-        const optionsEl = document.getElementById("options");
-        const nextBtn = document.getElementById("nextBtn");
-        const progressEl = document.getElementById("progress");
-        nextBtn.style.display = "none";
-        selectedIndex = 0;
+// ================= START QUIZ =================
+function startQuiz(text){
 
-        const current = quizData[currentQuestion];
-        questionEl.innerText = ` ${current.question}`;
-        progressEl.innerText = `Words ${currentQuestion + 1} / ${
-          quizData.length
-        }`;
-        optionsEl.innerHTML = "";
+    parseCSV(text);
+    shuffle(quizData);
 
-        current.options.forEach((option) => {
-          const btn = document.createElement("button");
-          btn.className = "option";
-          btn.innerText = option;
-          btn.onclick = () => checkAnswer(option);
-          optionsEl.appendChild(btn);
-        });
+    currentQuestion = 0;
+    score = 0;
 
-        highlightOption(document.querySelectorAll(".option"));
-      }
+    document.getElementById("inputSection").style.display = "none";
+    document.getElementById("quiz").style.display = "block";
+    document.getElementById("score").innerText = "";
 
-      function checkAnswer(selected) {
-        const correct = quizData[currentQuestion].correct;
-        if (selected === correct) score++;
+    loadQuestion();
+    document.getElementById("autoNextLabel").style.display = "block";
+}
+function startQuiz(text){
 
-        document.querySelectorAll(".option").forEach((btn) => {
-          btn.disabled = true;
-          if (btn.innerText === correct) {
-            btn.style.backgroundColor = "lightgreen";
-          } else if (btn.innerText === selected) {
-            btn.style.backgroundColor = "salmon";
-          }
-          btn.style.border = "";
-        });
+    parseCSV(text);
+    shuffle(quizData);
 
-        const autoNext = document.getElementById("autoNext").checked;
-        const nextBtn = document.getElementById("nextBtn");
+    currentQuestion = 0;
+    score = 0;
 
-        if (autoNext) {
-          setTimeout(() => nextQuestion(), 1000);
-        } else {
-          nextBtn.style.display = "block";
-        }
-      }
+    document.getElementById("inputSection").style.display = "none";
+    document.getElementById("quiz").style.display = "block";
 
-      function nextQuestion() {
-        currentQuestion++;
-        if (currentQuestion < quizData.length) {
-          loadQuestion();
-        } else {
-          showResult();
-        }
-      }
+    // 🔥 ẨN  NEXT
+    document.getElementById("nextBtn").style.display = "none";
 
-      function showResult() {
-        document.getElementById("question").innerText = "Finished!";
-        document.getElementById("progress").innerText = "";
-        document.getElementById("options").innerHTML = "";
-        document.getElementById("nextBtn").style.display = "none";
-        document.getElementById(
-          "score"
-        ).innerText = `Điểm của bạn: ${score}/${quizData.length}`;
+    document.getElementById("score").innerText = "";
 
-        const retryBtn = document.createElement("button");
-        retryBtn.innerText = "🔁 Re-try";
-        retryBtn.onclick = () => {
-          currentQuestion = 0;
-          score = 0;
-          shuffle(quizData);
-          quizData.forEach((q) => {
-            const wrongAnswers = quizData
-              .filter((item) => item.correct !== q.correct)
-              .map((item) => item.correct);
-            shuffle(wrongAnswers);
-            q.options = [q.correct, ...wrongAnswers.slice(0, 3)];
-            shuffle(q.options);
-          });
-          document.getElementById("score").innerText = "";
-          retryBtn.remove();
-          loadQuestion();
+    loadQuestion();
+}
+
+// ================= PARSE CSV =================
+function parseCSV(data){
+
+    const lines = data.split("\n");
+
+    quizData = lines
+    .map(line => line.trim())
+    .filter(line => line)
+    .map(line => {
+
+        const parts = line.split(",");
+
+        if (parts.length < 2) return null;
+
+        return {
+            question: parts[0].trim(),
+            correct: parts[1].trim()
         };
-        document.getElementById("quiz").appendChild(retryBtn);
-      }
 
-      function highlightOption(options) {
-        options.forEach((btn, i) => {
-          btn.style.border = i === selectedIndex ? "2px solid blue" : "";
-        });
-      }
+    })
+    .filter(Boolean);
 
-      document.addEventListener("keydown", function (e) {
-        const options = document.querySelectorAll(".option");
-        if (!options.length) return;
+    // tạo đáp án
+    quizData.forEach(q => {
 
-        if (e.key.toLowerCase() === "q") {
-          selectedIndex = (selectedIndex + 1) % options.length;
-          highlightOption(options);
+        const wrong = quizData
+            .filter(x => x.correct !== q.correct)
+            .map(x => x.correct);
+
+        shuffle(wrong);
+
+        q.options = [q.correct, ...wrong.slice(0,3)];
+        shuffle(q.options);
+    });
+
+}
+
+// ================= SHUFFLE =================
+function shuffle(arr){
+    for (let i = arr.length - 1; i > 0; i--){
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+}
+
+// ================= LOAD QUESTION =================
+function loadQuestion(){
+
+    const q = quizData[currentQuestion];
+
+    document.getElementById("question").innerText = q.question;
+    document.getElementById("progress").innerText =
+        `${currentQuestion + 1} / ${quizData.length}`;
+
+    const optionsEl = document.getElementById("options");
+    optionsEl.innerHTML = "";
+
+    selectedIndex = 0;
+
+    q.options.forEach(opt => {
+
+        const btn = document.createElement("button");
+        btn.className = "option";
+        btn.innerText = opt;
+
+        btn.onclick = () => checkAnswer(opt);
+
+        optionsEl.appendChild(btn);
+
+    });
+
+    highlight();
+}
+
+// ================= CHECK =================
+function checkAnswer(selected){
+
+    const correct = quizData[currentQuestion].correct;
+
+    if (selected === correct) score++;
+
+    document.querySelectorAll(".option").forEach(btn => {
+
+        btn.disabled = true;
+
+        if (btn.innerText === correct){
+            btn.style.background = "lightgreen";
+        } else if (btn.innerText === selected){
+            btn.style.background = "salmon";
         }
 
-        if (e.key === "Enter") {
-          if (!options[selectedIndex].disabled) {
-            options[selectedIndex].click();
-          }
-        }
-      });
-    </script>
-  </body>
+    });
+
+    if (document.getElementById("autoNext").checked){
+        setTimeout(nextQuestion, 800);
+    } else {
+        document.getElementById("nextBtn").style.display = "block";
+    }
+}
+
+// ================= NEXT =================
+function nextQuestion(){
+
+    currentQuestion++;
+
+    if (currentQuestion < quizData.length){
+        loadQuestion();
+    } else {
+        showResult();
+    }
+}
+
+// ================= RESULT =================
+function showResult(){
+
+    document.getElementById("question").innerText = "Finished!";
+    document.getElementById("options").innerHTML = "";
+    document.getElementById("progress").innerText = "";
+    document.getElementById("nextBtn").style.display = "none";
+
+    document.getElementById("score").innerText =
+        `Score: ${score}/${quizData.length}`;
+
+    const retry = document.createElement("button");
+
+    retry.innerText = "Retry";
+
+    retry.onclick = () => {
+
+        document.getElementById("inputSection").style.display = "block";
+        document.getElementById("quiz").style.display = "none";
+
+        retry.remove();
+    };
+
+    document.getElementById("quiz").appendChild(retry);
+}
+
+// ================= KEYBOARD =================
+document.addEventListener("keydown", e => {
+
+    const options = document.querySelectorAll(".option");
+    if (!options.length) return;
+
+    if (e.key === "q"){
+        selectedIndex = (selectedIndex + 1) % options.length;
+        highlight();
+    }
+
+    if (e.key === "Enter"){
+        options[selectedIndex].click();
+    }
+
+});
+
+function highlight(){
+
+    const options = document.querySelectorAll(".option");
+
+    options.forEach((btn,i)=>{
+        btn.style.border = i === selectedIndex ? "2px solid blue" : "";
+    });
+
+}
+
+</script>
+
+</body>
 </html>
