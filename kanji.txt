@@ -1,0 +1,3087 @@
+加,(GIA - tham gia)
+架,(GIÁ - cái giá)
+巡,(TUẦN - tuần tra)
+賀,(HẠ - chúc mừng)
+挨拶,(TẠT - chào hỏi)
+災,(TAI - tai họa)
+章,(CHƯƠNG - văn chương)
+俊,(TUẤN - tuấn tú)
+障,(CHƯƠNG - chướng ngại)
+彰,(CHƯƠNG - rực rỡ)
+唆,(TOA - xúi giục)
+酸,(TOAN - chua)
+充,(SUNG - sung túc)
+銃,(SÚNG - khẩu súng)
+辛,(TÂN - cay)
+統,(THỐNG - truyền thống)
+辞,(TỪ - từ điển)
+宰,(TỂ - tể tướng)
+鉄,(THIẾT - sắt)
+秩,(TRẬT - trật tự)
+君,(QUÂN - em)
+迭,(ĐIỆT - lần lượt)
+群,(QUẦN - quần đảo)
+郡,(QUẬN - quận huyện)
+札,(TRÁT - tiền giấy)
+礼,(LỄ - lễ nghi)
+発,(PHÁT - phát triển)
+孔,(KHỔNG - khổng tử)
+廃,(PHẾ - tàn phế)
+叫,(KHIẾU - kêu, hét)
+収,(THU - thu nhập)
+数,(SỐ - số học)
+糾,(CỦ - xoắn)
+楼,(LẦU - lâu đài)
+類,(LOẠI - chủng loại)
+急,(CẤP - khẩn cấp)
+害,(HẠI - tổn hại)
+隠,(ẨN - ẩn giấu)
+割,(CÁT - vỡ)
+穏,(ỔN - yên ổn)
+轄,(HẠT - cai quản)
+憲,(HIẾN - hiến pháp)
+甲,(GIÁP - vỏ, áo giáp)
+斉,(TỀ - ngang bằng)
+岬,(GIÁP - vệ núi)
+押,(ÁP - ấn)
+済,(TẾ - kinh tế)
+剤,(TẾ - dịch tể)
+井,(TỈNH - cái giếng)
+囲,(VI - chu vi)
+職,(CHỨC - chức vụ)
+丼,(ĐẢM - cái bát)
+識,(THỨC - tri thức)
+織,(CHỨC - dệt vải)
+仰,(NGƯỠNG - ngưỡng mộ)
+迎,(NGHÊNH - nghênh đón)
+契,(KHẾ - khế ước)
+抑,(ỨC - ức chế)
+喫,(KHIẾT - ăn uống)
+潔,(KHIẾT - thanh khiết)
+弁,(BIỆN - biện luận)
+弄,(LỘNG - chế nhạo)
+升,(THĂNG - lên)
+奔,(BÔN - chạy vội)
+昇,(THĂNG - thăng chức)
+飛,(PHI - bay)
+臼,(CỮU - cối đá)
+潟,(TÍCH - đất mặn)
+巨,(CỰ - to, lớn)
+毀,(HỦY - phá hủy)
+拒,(CỰ - chống cự)
+距,(CỰ - cự li)
+不,(BẤT - không)
+侯,(HẦU - tước hầu)
+杯,(BÔI - cái chén)
+否,(PHỦ - phủ định)
+候,(HẬU - khí hậu)
+喉,(HẦU - cổ họng)
+促,(XÚC - xúc tiến)
+了,(LIỄU - kết thúc)
+捉,(TRÓC - nắm chặt)
+承,(THỪA - thừa nhận)
+徒,(ĐỒ - học sinh)
+蒸,(CHƯNG - chưng cất)
+長,(TRƯỜNG, TRƯỞNG - dài)
+枚,(MAI - đếm tờ)
+張,(TRƯƠNG - kéo dài)
+帳,(TRƯỚNG - căng lên)
+牧,(MỤC - du mục)
+降,(GIÁNG - xuống)
+散,(TÁN, TẢN - tản bộ)
+丸,(HOÀN - tròn)
+炎,(VIÊM - cháy lớn)
+究,(CỨU - nghiên cứu)
+染,(NHIỄM - ô nhiễm)
+談,(ĐÀM - đàm thoại)
+軌,(QUỸ - quỹ đạo)
+淡,(ĐẠM - thanh đạm)
+灰,(HÔI - tro)
+脊,(TÍCH - xương sống)
+明,(MINH - sáng)
+骨,(CỐT - xương)
+滑,(HOẠT - linh hoạt)
+盟,(MINH - đồng minh)
+棚,(BẰNG - cái giá)
+背,(BỐI - cái lưng)
+絹,(QUYÊN - lụa)
+継,(KẾ - kế tục)
+隣,(LÂN - lân cận)
+断,(ĐOẠN - đoạn tuyệt)
+歯,(XỈ - răng)
+傑,(KIỆT - tuấn kiệt)
+奥,(ÁO - bên trong)
+瞬,(THUẤN - nháy mắt)
+美,(MỸ - đẹp)
+遅,(TRÌ - muộn)
+菊,(CÚC - hoa cúc)
+様,(DẠNG - hình dạng)
+窯,(DIÊU - cái lò)
+鳥,(ĐIỂU - con chim)
+鳴,(MINH - kêu, hót)
+島,(ĐẢO - hòn đảo)
+鶴,(HẠC - con hạc)
+崩,(BĂNG - phá hủy)
+岩,(NHAM - nham thạch)
+炭,(THÁN - than)
+嵐,(LAM - cơn bão)
+楽,(LẠC, NHẠC - âm nhạc, vui)
+探,(THÁM - trình thám)
+薬,(DƯỢC - thuốc)
+世,(THẾ - thế giới)
+深,(THÂM - sâu)
+貫,(QUÁN - nhất quán)
+秋,(THU - mùa thu)
+愁,(SẦU - u sầu, buồn bã)
+渓,(KHÊ - thung lũng)
+扶,(PHÙ - phù hộ)
+葉,(DIỆP - chiếc lá)
+慣,(QUÁN - tập quán)
+鶏,(KÊ - con gà)
+冬,(ĐÔNG - mùa đông)
+終,(CHUNG - kết thúc)
+吉,(CÁT - vui vẻ)
+高,(CAO - cao)
+詰,(CẬT - hỏi vặn)
+舎,(XÁ - phố xá)
+矯正,(KIỀU - nắn thẳng)
+捨,(XẢ - vứt bỏ)
+委,(ỦY - ủy viên)
+結,(KẾT - kết hôn)
+稿,(CẢO - bản thảo)
+橋,(KIỀU - cây cầu)
+香,(HƯƠNG - hương thơm)
+季,(QUÝ - mùa)
+萎,(NUY - héo)
+堂,(ĐƯỜNG - võ đường)
+尚,(THƯỢNG - hòa thượng)
+賞,(THƯỞNG - tiền thưởng)
+同,(ĐỒNG - giống nhau)
+銅,(ĐỒNG - chất đồng)
+底,(ĐỂ - cái đáy)
+掌,(CHƯỞNG - lòng bàn tay)
+常,(THƯỜNG - bình thường)
+償,(THƯỞNG - bồi thường)
+低,(ĐÊ - thấp)
+筒,(ĐỒNG - ống tre)
+胴,(ĐỒNG - cơ thể)
+抵,(ĐỂ - chống lại)
+度,(ĐỘ - lần)
+渡,(ĐỘ - vượt qua)
+興,(HƯNG - hưng phấn)
+弐,(NHỊ - số 2)
+武,(VŨ - vũ khí)
+邸,(ĐỂ - lâu đài)
+洞,(ĐỘNG - cái động)
+庶,(THỨ - thứ dân)
+遮,(GIÀ - che, chắn)
+席,(TỊCH - chỗ ngồi)
+賦,(PHÚ - đánh thuế)
+式,(THỨC - hình thức)
+試,(THÍ - thí nghiệm)
+戒,(GIỚI - cảnh giới)
+載,(TẢI - đăng tải)
+戴,(ĐÁI - tôn kính)
+惑,(HOẶC - mê hoặc)
+拭,(THỨC - lau chùi)
+栽,(TÀI - trồng cây)
+裁,(TÀI - trọng tài)
+械,(GIỚI - máy móc)
+域,(VỰC - khu vực)
+茂,(MẬU - tốt tươi)
+越,(VIỆT - vượt qua)
+賊,(TẶC - hải tặc)
+減,(GIẢM - giảm xuống)
+蔑,(MIỆT - khinh miệt)
+憾,(HÀM - hối tiếc)
+丘,(KHẤU - ngọn đồi)
+繊,(TIÊM - thanh mảnh)
+威,(UY - uy quyền)
+滅,(DIỆT - tiêu diệt)
+感,(CẢM - cảm giác)
+歳,(TUẾ - tuổi)
+兵,(BINH - binh sĩ)
+成,(THÀNH - thành công)
+盛,(THỊNH - hưng thịnh)
+誠,(THÀNH - thành thực)
+益,(ÍCH - lợi ích)
+溢,(DẬT - đầy tràn)
+地,(ĐỊA - đất)
+浜,(BANH - bãi biển)
+岳,(NHẠC - núi cao)
+城,(THÀNH - thành lũy)
+池,(TRÌ - cái ao)
+血,(HUYẾT - máu)
+衆,(CHÚNG - công chúng)
+他,(THA - người lạ)
+列,(LIỆT - hàng lối)
+単,(ĐƠN - đơn giản)
+戦,(CHIẾN - chiến tranh)
+弾,(ĐẠN - viên đạn)
+票,(PHIẾU - bỏ phiếu)
+施,(THI - thực thi)
+例,(LỆ - ví dụ)
+烈,(LIỆT - mãnh liệt)
+裂,(LIỆT - xé rách)
+禅,(THIỀN - thiền định)
+亜,(Á - châu Á)
+票,(PHIẾU - trôi, nổi)
+悪,(ÁC - xấu)
+要,(YẾU - tất yếu)
+辺,(BIÊN - biên giới)
+遷,(THIÊN - biến thiên)
+価,(GIÁ - giá trị)
+標,(TIÊU - mục tiêu)
+煙,(YÊN - khói)
+腰,(YÊU - eo, hông)
+初,(SƠ - lần đầu)
+切,(THIẾT - cắt)
+窃,(THIẾT - ăn cắp)
+栗,(LẬT - cây dẻ)
+慄,(LẬT - sợ run)
+干,(CAN - khô)
+刃,(NHẬN - sắc nhọn)
+肝,(CAN - gan)
+汗,(HÃN - mồ hôi)
+忍,(NHẪN - nhẫn nại)
+刊,(SAN - tập san)
+認,(NHẬN - xác nhận)
+幹,(CÁN - cán bộ)
+軒,(HIÊN - mái hiên)
+乾,(CAN - khô cạn)
+岸,(NGẠN - bờ biển)
+韓,(HÀN - Hàn Quốc)
+宇,(VŨ - vũ trụ)
+朝,(TRIỀU - buổi sáng)
+芋,(DỤ - củ khoai)
+弓,(CUNG - cung tên)
+引,(DẪN - kéo ra)
+潮,(TRIỀU - thủy triều)
+強,(CƯỜNG - mạnh)
+嘲,(TRÀO - giễu cợt)
+弔,(ĐIẾU - viếng thăm)
+弱,(NHƯỢC - yếu)
+溺,(NỊCH - chết đuối)
+弟,(ĐỆ - em trai)
+窮,(CÙNG - cùng cực)
+第,(ĐỆ - đệ nhất)
+沸,(PHÍ - sôi)
+費,(PHÍ - phí tổn)
+折,(CHIẾT - gãy, bẻ gãy)
+斤,(CÂN - cái rìu)
+哲,(TRIẾT - triết học)
+近,(CẬN - gần)
+逝,(THỆ - chết)
+誓,(THỆ - tuyên thệ)
+所,(SỞ - cơ sở)
+祈,(KÌ - cầu chúc)
+訓,(HUẤN - huấn luyện)
+順,(THUẬN - thuận lợi)
+焼,(THIÊU - thiêu đốt)
+無,(VÔ - vô lý)
+暁,(HIỂU - bình minh)
+舞,(VŨ - khiêu vũ)
+両,(LƯỠNG - cả hai)
+満,(MÃN - mãn nguyện)
+州,(CHÂU - cửu châu)
+酬,(THÙ - thù lao)
+荒,(HOANG - hoang vắng)
+流,(LƯU - giao lưu)
+慌,(HOẢNG - hoảng sợ)
+硫,(LƯU - lưu huỳnh)
+帝,(ĐẾ - hoàng đế)
+締,(ĐẾ - ràng buộc)
+新,(TÂN - mới)
+匠,(TƯỢNG - thợ mộc)
+薪,(TÂN - củi)
+析,(TÍCH - phân tích)
+斥,(XÍCH - bài xích)
+訴,(TỐ - tố giác)
+松,(TÙNG - cây thông)
+公,(CÔNG - công cộng)
+訟,(TỤNG - kiện tụng)
+翁,(ÔNG - ông già)
+総,(TỔNG - tổng hợp)
+窓,(SONG - cửa sổ)
+港,(CẢNG - hải cảng)
+選,(TUYỂN - tuyển chọn)
+共,(CỘNG - công cộng)
+異,(DỊ - dị dạng)
+洪,(HỒNG - hồng thủy)
+翼,(DỰC - cánh chim)
+供,(CUNG - cung cấp)
+恭,(CUNG - cung kính)
+更,(CANH - đổi mới)
+暴,(BẠO - bạo lực)
+便,(TIỆN - tiện lợi)
+硬,(NGẠNH - cứng rắn)
+爆,(BỘC, BẠO - bom)
+梗,(NGẠNH - tắc nghẽn)
+矛,(MÂU - mâu thuẫn)
+旅,(LỮ - du lịch)
+柔,(NHU - mềm)
+遊,(DU - vui chơi)
+務,(VỤ - chức vụ)
+族,(TỘC - gia tộc)
+霧,(VỤ - sương mù)
+旋,(TOÀN - trở lại)
+湿,(THẤP - ẩm thấp)
+並,(TỊNH - xếp hàng)
+顕,(HIỂN - hiển nhiên)
+霊,(LINH - linh hồn)
+普,(PHỔ - phổ thông)
+譜,(PHỔ - gia phả)
+餅,(BÍNH - bánh dày)
+併,(TỊNH - tuy nhiên)
+形,(HÌNH - hình dạng)
+塀,(BIÊN - tường, rào)
+刑,(HÌNH - hình phạt)
+型,(HÌNH - địa hình)
+研,(NGHIÊN - nghiên cứu)
+掘,(QUẬT - kênh mương)
+出,(XUẤT - ra ngoài)
+窟,(QUẬT - cái hang)
+拙,(CHUYẾT - vụng về)
+屈,(KHUẤT - bất khuất)
+掘,(QUẬT - khai quật)
+論,(LUẬN - tranh luận)
+編,(BIÊN - đan)
+冊,(SÁCH - quyển sách)
+遍,(BIẾN - phổ thiên)
+柵,(SÁCH - hàng rào)
+偏,(THIÊN - thiên vị)
+倫,(LUÂN - luân lí)
+輪,(LUÂN - bánh xe)
+補,(BỔ - bổ sung)
+違,(VI - sai trái)
+捕,(BỘ, BỘ - bắt)
+哺,(BỘ - mớm)
+偉,(VĨ - vĩ nhân)
+緯,(VĨ - vĩ tuyến)
+官,(QUAN - chức quan)
+舗,(PHỐ - phố xá)
+棺,(QUAN - quan tài)
+遣,(KHIỂN - cử đi)
+浦,(PHỔ - bến sông)
+衛,(VỆ - vệ tinh)
+館,(QUÁN - hội quán)
+管,(QUẢN - quản lý)
+師,(SƯ - giáo sư)
+飾,(SỨC - trang trí)
+追,(TRUY - truy đuổi)
+帥,(SUẤT, SÚY - nguyên soái)
+部,(BỘ - bộ phận)
+倍,(BỘI - bội số)
+陪,(BỒI - bồi thẩm đoàn)
+帯,(ĐỚI - cái đai)
+埠,(PHỤ - bến đỗ)
+滞,(TRỆ - đình trệ)
+帰,(QUY - trở về)
+婦,(PHỤ - phụ nữ)
+掃,(TẢO - quét dọn)
+至,(CHÍ - kịp, đến)
+培,(BỒI - bồi dưỡng)
+賠,(BỒI - bồi thường)
+剖,(PHẪU - phẫu thuật)
+握,(ÁC - cầm, nắm)
+室,(THẤT - phòng)
+屋,(ỐC - mái nhà)
+致,(TRÍ - nhất trí)
+緻,(TRÍ - tỉ mỉ)
+到,(ĐÁO - đến nơi)
+倒,(ĐẢO - ngã, đổ)
+窒,(TRẤT - dạ m)
+旨,(CHỈ - ý chỉ)
+歴,(LỊCH - lí lịch)
+暦,(LỊCH - tấm lịch)
+詣,(NGHỆ - hành hương)
+襟,(KHÂM - cổ áo)
+稽,(KÊ - cãi cọ)
+警,(CẢNH - cảnh sát)
+指,(CHỈ - ngón tay)
+脂,(CHỈ - mỡ)
+禁,(CẤM - nghiêm cấm)
+敬,(KÍNH - cung kính)
+驚,(KINH - kinh ngạc)
+句,(CÚ - câu cú)
+拘,(CÂU - bắt giữ)
+厄,(ÁCH - tai họa)
+勾,(CÂU - móc lấy)
+匂,(MÙI - mùi)
+旬,(TUẦN - 10 ngày)
+旧,(CỰU - kỳ cựu)
+駒,(CÂU - ngựa con)
+危,(NGUY - nguy hiểm)
+犯,(PHẠM - vi phạm)
+範,(PHẠM - phạm vi)
+殉,(TUẦN - chết theo)
+児,(NHI - nhi đồng)
+氾,(PHIẾM - tràn lan)
+怨,(OÁN - oán giận)
+宛,(UYỂN - địa chỉ)
+途,(ĐỒ - con đường)
+塗,(ĐỒ - sơn)
+除,(TRỪ - xóa bỏ)
+陥,(HÃM - vây hãm)
+稲,(ĐẠO - bông lúa)
+腕,(OẢN - cánh tay)
+余,(DƯ - dư thừa)
+斜,(TÀ - nghiêng)
+茶,(TRÀ - trà)
+徐,(TỪ - thong thả)
+制,(CHẾ - chế độ)
+易,(DỊCH - dễ dàng)
+賜,(TỨ - ban cho)
+罵,(MẠ - lăng mạ)
+死,(TỬ - chết)
+叙,(TỰ - tường thuật)
+製,(CHẾ - chế tạo)
+声,(THANH - âm thanh)
+眉,(MI - lông mày)
+督,(ĐỐC - đôn đốc)
+葬,(TÁNG - mai táng)
+善,(THIỆN - cải thiện)
+繕,(THIỆN - sửa chữa)
+貞,(TRINH - trinh tiết)
+玄,(HUYỀN - màu đen)
+狭,(HIỆP - hẹp)
+挟,(HIỆP - kẹp)
+属,(CHÚC, THUỘC - phụ thuộc)
+嘱,(CHÚC - giao phó)
+偵,(TRINH - trinh thám)
+絃,(HUYỀN - dây đàn)
+弦,(HUYỀN - dây cung)
+舷,(HUYỀN - mạn thuyền)
+峡,(HẠP - hẻm núi)
+漢,(HÁN - chữ hán)
+難,(NAN - gian nan, khó)
+蓄,(SÚC - tích trữ)
+聴,(THÍNH - thính giác)
+壊,(HOẠI - phá hoại)
+頬,(GIÁP - cái má)
+畜,(SÚC - gia súc)
+嘆,(THÁN - ca thán)
+徳,(ĐỨC - đạo đức)
+勤,(CẦN - cần cù)
+謹,(CẨN - cẩn thận)
+懐,(HOÀI - hoài niệm)
+劇,(KỊCH - diễn kịch)
+慢,(MẠN - ngạo mạn)
+漫,(MẠN - lãng mạn)
+券,(KHOÁN - chứng khoán)
+巻,(QUYỂN - quyển sách)
+僅,(CẬN - ít)
+虚,(HƯ - hư không)
+戯,(HÍ - trêu đùa)
+胃,(VỊ - dạ dày)
+慮,(LỰ - lưỡng lự)
+虎,(HỔ - con hổ)
+圏,(QUYỂN - khí quyển)
+虜,(LỖ - tù binh)
+就,(TỰU - thành tựu)
+蹴,(XÚC - đá)
+滕,(ĐẰNG - hoa tử đằng)
+謄,(ĐẰNG - sao chép)
+拳,(QUYỀN - nắm đấm)
+虐,(NGƯỢC - ngược đãi)
+勝,(THẮNG - chiến thắng)
+沈,(TRẦM - chìm)
+枕,(CHẨM - cái gối)
+騰,(ĐẰNG - tăng giá)
+劾,(HẠC - luận tội)
+刻,(KHẮC - điêu khắc)
+核,(HẠCH - hạt nhân)
+該,(CAI - bao quát)
+兼,(KIÊM - kiêm nhiệm)
+嫌,(HIỀM - hiềm khích)
+去,(KHỨ - quá khứ)
+法,(PHÁP - phương pháp)
+却,(KHƯỚC - khước từ)
+骸,(HÀI - hài cốt)
+脚,(CƯỚC - cú đá)
+廉,(LIÊM - liêm khiết)
+蓋,(CÁI - cái vung)
+賢,(HIỀN - thông minh)
+堅,(KIÊN - kiên cố)
+腎,(THẬN - quả thận)
+期,(KÌ - kì hạn)
+棋,(KÌ - cờ tướng)
+鎌,(LIÊM - cái liềm)
+謙,(KHIÊM - khiêm tốn)
+緊,(KHẨN - khẩn trương)
+奇,(KÌ - kì lạ)
+寄,(KÍ - kí gửi)
+埼,(KÌ - mũi đất)
+崎,(KHI - đường núi)
+欺,(KHI - lừa đảo)
+騎,(KỊ - cưỡi ngựa)
+塞,(TẮC - bế tắc)
+寒,(HÀN - lạnh)
+甚,(THẬM - rất, lắm)
+碁,(KÌ - cờ vây)
+旗,(KÌ - quốc kì)
+基,(CƠ - cơ bản)
+椅,(Y - cái ghế)
+療,(LIỆU - trị liệu)
+僚,(LIÊU - đồng nghiệp)
+寮,(LIÊU - kí túc xá)
+瞭,(LIÊU - rõ ràng)
+鹿,(LỘC - con hươu)
+麗,(LỆ - đẹp)
+龍,(LONG - con rồng)
+籠,(LUNG - cái giỏ)
+堪,(KHAM - chịu đựng)
+勘,(KHÁM - trực giác)
+隙,(KHÍCH - lỗ hổng)
+麓,(LỘC - chân núi)
+薦,(TIẾN - tiến cử)
+襲,(TẬP - tập kích)
+模,(MÔ - mô hình)
+慶,(KHÁNH - mừng)
+摸,(MẠC - bắt chước)
+暮,(MỘ - tối)
+擬,(NGHĨ - phỏng theo)
+凝,(NGƯNG - đọng lại)
+膜,(MẠC - màng)
+漠,(MẠC - sa mạc)
+幕,(MẠC - màn, rèm)
+疑,(NGHI - nghi ngờ)
+募,(MỘ - chiêu mộ)
+墓,(MỘ - ngôi mộ)
+慕,(MỘ - hâm mộ)
+義,(NGHĨA - nghĩa khí)
+遡,(TỐ - ngược dòng)
+儀,(NGHI - uy nghi)
+愚,(NGU - ngu dốt)
+偶,(NGẪU - ngẫu nhiên)
+逆,(NGHỊCH - trái ngược)
+塑,(TỐ - đắp tượng)
+議,(NGHỊ - hội nghị)
+犠,(HI - hi sinh)
+屯,(ĐỒN - tấn)
+隅,(NGU - góc)
+鈍,(ĐỘN - đần độn)
+頓,(ĐỐN - chỉnh đốn)
+街,(NHAI - phố phường)
+呉,(NGÔ - nước ngô)
+誤,(NGỘ - giấc ngộ)
+娯,(NGU - vui vẻ)
+遇,(NGỘ - hội ngộ)
+純,(THUẦN - thuần khiết)
+崖,(NHAI - ven núi)
+涯,(NHAI - cuộc đời)
+佳,(GIAI - giai nhân)
+虞,(NGU - sợ hãi)
+牙,(NHA - răng to)
+芽,(NHA - mầm)
+雅,(NHÃ - nho nhã)
+需,(NHU - nhu cầu)
+既,(KÍ - đã qua)
+慨,(KHÁI - khẳng khái)
+封,(PHONG - niêm phong)
+掛,(QUẢI - treo)
+邪,(TÀ - tà ma)
+儒,(NHO - nho nhã)
+濡,(NHU - ướt)
+耐,(NẠI - nhẫn nại)
+概,(KHÁI - khái niệm)
+柳,(LIÊU - cây liễu)
+挿,(SÁP - sáp nhập)
+縄,(THẰNG - dây thừng)
+幣,(TỆ - tệ bạc)
+誉,(DỰ - danh dự)
+卯,(MÃO - trứng)
+捜,(SƯU - sưu tầm)
+亀,(QUY - con rùa)
+幣,(TỆ - tiền tệ)
+以,(DĨ - cái mốc)
+似,(TỰ - tương tự)
+挙,(CỬ - tuyển cử)
+瓶,(BÌNH - cái bình)
+端,(ĐOAN - cực đoan)
+敢,(CẢM - dũng cảm)
+非,(PHI - phi thường)
+能,(NĂNG - năng lực)
+瓦,(NGÕA - ngói)
+餌,(NHỊ - mồi câu)
+摂,(NHIẾP - nhiếp chính)
+厳,(NGHIÊM - nghiêm khắc)
+悲,(BI - bi thảm)
+罪,(TỘI - tội phạm)
+態,(THÁI - thái độ)
+罷,(BÃI - bãi bỏ)
+番,(PHIÊN - lần lượt)
+翻,(PHIÊN - phiên dịch)
+扉,(PHI - cánh cửa)
+輩,(BỐI - tiền bối)
+俳,(BÀI - nghệ sĩ)
+熊,(HÙNG - gấu)
+排,(BÀI - bài trừ)
+藩,(PHIÊN - bờ rào)
+審,(THẨM - thẩm phán)
+錬,(LUYỆN - rèn luyện)
+陳,(TRẦN - trần thuật)
+棟,(ĐỐNG - nóc nhà)
+練,(LUYỆN - luyện tập)
+逢,(PHÙNG - trùng phùng)
+縫,(PHÙNG - khâu vá)
+峰,(PHONG - núi cao)
+凍,(ĐÔNG - đông lại)
+欄,(LAN - lan can)
+過,(QUÁ - vượt quá)
+渦,(QUA - xoáy nước)
+禍,(HỌA - tai họa)
+鍋,(OA - nồi)
+蜂,(PHONG - con ong)
+巧,(XẢO - tinh xảo)
+朽,(HỦ - mục nát)
+極,(CỰC - cực đoan)
+把,(BẢ - cầm)
+誇,(KHOA - khoa trương)
+号,(HIỆU - số hiệu)
+色,(SẮC - màu sắc)
+絶,(TUYỆT - tuyệt đối)
+肥,(PHÌ - béo)
+汚,(Ô - ô nhiễm)
+互,(HỖ - hỗ trợ)
+顎,(NGẠC - cái cằm)
+写,(TẢ - sao lại)
+適,(THÍCH - thích hợp)
+敵,(ĐỊCH - kẻ địch)
+乗,(THỪA - lên xe)
+剰,(THẶNG - thừa)
+与,(DỰ - ban cho)
+摘,(TRÍCH - hái)
+滴,(TRÍCH - giọt nước)
+嫡,(ĐÍCH - đích tôn)
+垂,(THÙY - rủ xuống)
+睡,(THỤY - ngủ)
+華,(HOA - hoa mỹ)
+嘩,(HOA - cãi nhau)
+戚,(THÍCH - thân thích)
+束,(THÚC - bó, buộc)
+淑,(THỤC - hiền thục)
+寂,(TỊCH - lặng im)
+唾,(THOÁ - nước bọt)
+郵,(BƯU - bưu điện)
+叔,(THÚC - chú)
+速,(TỐC - tốc độ)
+疎,(SƠ - sơ sài)
+督,(ĐỐC - giám đốc)
+瀬,(LẠI - nông cạn)
+辣,(LẠT - gian ác)
+策,(SÁCH - kế sách)
+査,(TRA - kiểm tra)
+且,(THẢ - ngoài ra)
+組,(TỔ - tổ chức)
+勅,(SẮC - sắc lệnh)
+刺,(THÍCH - đâm, chích)
+頼,(LẠI - ỷ lại)
+畳,(ĐIỆP - cái chiếu)
+粗,(THÔ - thô sơ)
+租,(TÔ - tô thuế)
+祖,(TỔ - tổ tiên)
+臣,(THẦN - đại thần)
+姫,(CƠ - công chúa)
+阻,(TRỞ - cản trở)
+宜,(NGHI - tiện nghi)
+鑑,(GIÁM - gương)
+助,(TRỢ - trợ giúp)
+狙,(THƯ - đích nhắm)
+覧,(LÃM - triển lãm)
+監,(GIÁM - giám đốc)
+蔵,(TÀNG - tàng trữ)
+臓,(TẠNG - nội tạng)
+艦,(HẠM - chiến hạm)
+濫,(LẠM - tràn đầy)
+辱,(NHỤC - nhục nhã)
+震,(CHẤN - địa chấn)
+娠,(THẦN - mang thai)
+斎,(TRAI - ăn chay)
+藍,(LAM - xanh lam)
+唇,(THẦN - cái môi)
+辰,(THẦN - thìn)
+振,(CHẤN - chấn động)
+奈,(NẠI - tận cùng)
+示,(THỊ - chỉ thị)
+尉,(ÚY - đại úy)
+慰,(ÚY - an ủi)
+崇,(SÙNG - sùng bái)
+業,(NGHIỆP - nông nghiệp)
+僕,(BỘC - xưng tôi)
+撲,(PHÁC - đánh nhau)
+宗,(TÔNG - tôn giáo)
+踪,(TUNG - biến di)
+実,(THỰC - sự thực)
+寿,(THỌ - tuổi thọ)
+鋳,(CHÚ - đúc)
+邦,(BANG - đất nước)
+那,(NA - nhiều)
+洗,(TIỂN - giặt, rửa)
+熱,(NHIỆT - nóng)
+勢,(THẾ - thế lực)
+癒,(DŨ - chữa khỏi)
+輸,(THÂU - nhập khẩu)
+睦,(MỤC - thân thiện)
+陵,(LĂNG - lăng mộ)
+隆,(LONG - hưng thịnh)
+陸,(LỤC - châu lục)
+前,(TIỀN - rang)
+愉,(DU - vui vẻ)
+諭,(DỤ - dạy bảo)
+着,(TRƯỚC - mặc, đến)
+豹,(BÁO - con báo)
+貌,(MẠO - diện mạo)
+墾,(KHẨN - khai khẩn)
+汰,(THẢI - chất thải)
+喩,(DỤ - ẩn dụ)
+差,(SAI - sai khác)
+羞,(TU - nhút nhát)
+看,(KHÁN - khán giả)
+懇,(KHẨN - khẩn khoản)
+駄,(ĐÀ - thồ hàng)
+在,(TẠI - tồn tại)
+存,(TỒN - tồn tại)
+伐,(PHẠT - chinh phạt)
+丹,(ĐAN, ĐƠN - viên thuốc)
+舟,(CHU - thuyền)
+為,(VI - hành vi)
+革,(CÁCH - cải cách)
+覇,(BÁ - bá chủ)
+閥,(PHIỆT - quân phiệt)
+我,(NGÃ - bản thân)
+餓,(NGÃ - đói)
+境,(CẢNH - cảnh giới)
+偽,(NGỤY - ngụy biện)
+再,(TÁI - tái sử dụng)
+構,(CẤU - cấu tạo)
+弧,(HỒ - hình cung)
+脈,(MẠCH - mạch máu)
+幸,(HẠNH - hạnh phúc)
+鏡,(KÍNH - kính mắt)
+孤,(CÔ - cô độc)
+購,(CẤU - mua sắm)
+溝,(CÂU - rãnh nước)
+派,(PHÁI - phái đoàn)
+講,(GIẢNG - bài giảng)
+執,(CHẤP - chấp hành)
+達,(ĐẠT - thành đạt)
+秀,(TÚ - tuấn tú)
+誘,(DỤ - mời rủ)
+透,(THẤU - thấu suốt)
+携,(HUỀ - mang theo)
+摯,(CHÍ - mạnh mẽ)
+寝,(TẨM - ngủ)
+浸,(TẨM - ngâm)
+侵,(XÂM - xâm nhập)
+尋,(TẦM - tìm, hỏi)
+憎,(TĂNG - ghét)
+贈,(TẶNG - tặng quà)
+層,(TẦNG - tầng lớp)
+僧,(TĂNG - tăng lữ)
+祭,(TẾ - lễ hội)
+璧,(BÍCH - ngọc bích)
+癖,(PHÍCH - thói quen)
+曽,(TĂNG - cháu chắt)
+増,(TĂNG - tăng giá)
+避,(TỊ - tị nạn)
+壁,(BÍCH - bức tường)
+際,(TẾ - quốc tế)
+察,(SÁT - cảnh sát)
+擦,(SÁT - ma sát)
+猶,(DO - do dự)
+隔,(CÁCH - khoảng cách)
+融,(DUNG - dung môi)
+商,(THƯƠNG - thương phẩm)
+奏,(TẤU - diễn tấu)
+換,(HOÁN - hoán đổi)
+喚,(HOÁN - hô hoán)
+尊,(TÔN - tôn kính)
+遵,(TUÂN - tuân lệnh)
+春,(XUÂN - mùa xuân)
+微,(VI - nhỏ bé)
+泰,(THÁI - thái bình)
+奉,(PHỤNG - phụng mệnh)
+赤,(XÍCH - màu đỏ)
+棒,(BỔNG - cái gậy)
+俸,(BỔNG - bổng lộc)
+衣,(Y - y phục)
+徴,(TRƯNG - đặc trưng)
+懲,(TRỪNG - trừng phạt)
+赦,(XÁ - xá tội)
+嚇,(HÁCH - dọa nạt)
+湾,(LOAN - vịnh)
+跡,(TÍCH - dấu tích)
+依,(Y - ỷ lại)
+表,(BIỂU - phát biểu)
+蛮,(MAN - man rợ)
+俵,(BIỂU, BIỂU - cho tặng)
+衷,(TRUNG - trung thực)
+衰,(SUY - suy nhược)
+恋,(LUYẾN - luyến ái)
+変,(BIẾN - biến đổi)
+畏,(ÚY - sợ)
+喪,(TANG - lễ tang)
+哀,(AI - bi ai)
+慈,(TỪ - nhân từ)
+磁,(TỪ - từ trường)
+滋,(TỪ - phồn thịnh)
+幽,(U - âm u)
+率,(SUẤT - tỷ suất)
+機,(CƠ - cơ khí, máy móc)
+畿,(KÌ - kinh kì)
+幺,(YÊU - nhỏ)
+幻,(ẢO - ảo tưởng)
+幼,(ẤU - thơ ấu)
+幾,(KÌ - bao nhiêu)
+掲,(YẾT - niêm yết)
+謁,(YẾT - yết kiến)
+喝,(HÁT - quát mắng)
+旦,(ĐÁN - mồng 1 tết)
+但,(ĐÁN - tuy nhiên)
+垣,(VIÊN - hàng rào)
+褐,(HẠT - sắc nâu)
+担,(ĐẢM - đảm đương)
+胆,(ĐẢM - can đảm)
+幽,(U - ám u)
+壇,(ĐÀN - bàn thờ)
+定,(ĐỊNH - cố định)
+錠,(ĐĨNH - cái khóa)
+綻,(TRÁN - đường khâu)
+婿,(TẾ - chú rể)
+従,(TÙNG - phục tùng)
+縦,(TÙNG - trục tung)
+得,(ĐẮC - đắc ý)
+宣,(TUYÊN - tuyên truyền)
+恒,(HẰNG - vĩnh hằng)
+肖,(TIÊU - chân dung)
+消,(TIÊU - tiêu trừ, xóa)
+削,(TƯỚC - gọt)
+宵,(TIÊU - buổi tối)
+硝,(TIÊU - diêm tiêu)
+鎖,(TỎA - phong tỏa)
+慎,(THẬN - thận trọng)
+投,(ĐẦU - đầu tư)
+殺,(SÁT - sát hại)
+具,(CỤ - công cụ)
+真,(CHÂN - chân thật)
+惧,(CỤ - sợ hãi)
+鎮,(TRẤN - trấn áp)
+役,(DỊCH - chiến dịch)
+設,(THIẾT - thiết lập)
+殿,(ĐIỆN - cung điện)
+般,(BAN, BÀN - bình thường)
+搬,(BAN, BÀN - vận chuyển)
+盤,(BÀN - bàn tính)
+殻,(XÁC - vỏ)
+碑,(BI - bia mộ)
+没,(MỘT - chìm đắm)
+股,(CỔ - bẹn, háng)
+疫,(DỊCH - bệnh dịch)
+撃,(KÍCH - công kích)
+卑,(TI - ti tiện)
+穀,(CỐC - ngũ cốc)
+累,(LỤY, LŨY - tích lũy)
+塁,(LŨY - thành lũy)
+采,(THÁI, THẢI - hái, ngắt)
+菜,(THÁI - rau)
+採,(THÁI - hái)
+彩,(THÁI - sắc thái)
+段,(ĐOẠN - giai đoạn)
+鍛,(ĐOẠN - rèn luyện)
+比,(TỈ - so sánh)
+批,(PHÊ - phê bình)
+昆,(CÔN - côn trùng)
+混,(HỖN - hỗn loạn)
+綿,(MIÊN - bông)
+盾,(THUẪN - mâu thuẫn)
+循,(TUẦN - tuần hoàn)
+宅,(TRẠCH - nhà ở)
+術,(THUẬT - nghệ thuật)
+仙,(TIÊN - thần tiên)
+錦,(CẨM - gấm)
+串,(XUYẾN - xiên)
+患,(HOẠN - bệnh hoạn)
+託,(THÁC - ủy thác)
+述,(THUẬT - trần thuật)
+衡,(HÀNH - cân bằng)
+峠,(ĐÈO - con đèo)
+后,(HẬU - hoàng hậu)
+皆,(GIAI - mọi người)
+階,(GIAI - giai cấp)
+諧,(HÀI - hài hòa)
+戸,(HỘ - cánh cửa)
+桁,(HÀNH - chữ số)
+逓,(ĐỆ - đệ trình)
+陛,(BỆ - bệ hạ)
+楷,(GIAI - cây giai)
+困,(KHỐN - khốn khổ)
+団,(ĐOÀN - đoàn thể)
+肩,(KIÊN - cái vai)
+炉,(LÔ - cái lò)
+啓,(KHẢI - sáng tỏ)
+貴,(QUÝ - quý tộc)
+遺,(DI - di chúc)
+潰,(HỘI - nghiền nát)
+囚,(TÙ - tù nhân)
+菌,(KHUẨN - vi khuẩn)
+育,(DỤC - giáo dục)
+徹,(TRIỆT - triệt để)
+撤,(TRIỆT - triệt bỏ)
+棄,(KHÍ - bỏ)
+噴,(PHÚN - phun ra)
+憤,(PHẪN - phẫn nộ)
+墳,(PHẦN - phần mộ)
+泥,(NÊ - bùn đất)
+計,(KẾ - kế hoạch)
+針,(CHÂM - cái kim)
+尿,(NIỆU - nước tiểu)
+尾,(VĨ - cái đuôi)
+尼,(NI - ni cô)
+尻,(KHẢO - cái mông)
+展,(TRIỂN - phát triển)
+漏,(LẬU - rò rỉ)
+汁,(TRÁP - nước súp)
+缶,(PHẪU - cái lon)
+謡,(DAO - ca dao)
+揺,(DAO - dao động)
+陶,(ĐÀO - đồ gốm)
+任,(NHIỆM - trách nhiệm)
+迅,(TẤN - nhanh chóng)
+虫,(TRÙNG - côn trùng)
+蛍,(HUỲNH - con đom đóm)
+蛇,(XÀ - con rắn)
+蚕,(TẰM - con tằm)
+騒,(TAO - ồn ào)
+賃,(NHÂM - thuê)
+妊,(NHÂM - mang thai)
+廷,(ĐÌNH - triều đình)
+庭,(ĐÌNH - sân vườn)
+艇,(ĐĨNH - thuyền nhỏ)
+打,(ĐẢ - đánh)
+繭,(KIẾN - kén tằm)
+淫,(DÂM - dâm đãng)
+丁,(ĐINH - can đinh)
+町,(ĐINH - thị trấn)
+頂,(ĐỈNH - đỉnh cao)
+独,(ĐỘC - cô độc)
+灯,(ĐĂNG - cái đèn)
+釘,(ĐINH - đinh ốc)
+訂,(ĐÍNH - đính chính)
+寧,(NINH - lịch thiệp)
+粛,(TÚC - nghiêm túc)
+唐,(ĐƯỜNG - nhà đường)
+庁,(SẢNH - đại sảnh)
+貯,(TRỮ - tích trữ)
+亭,(ĐÌNH - đình làng)
+停,(ĐÌNH - đình chỉ)
+逮,(ĐÃI - bắt)
+隷,(LỆ - nô lệ)
+糖,(ĐƯỜNG - chất đường)
+庸,(DUNG - xoàng xĩnh)
+之,(CHI - đây, này)
+乏,(PHẠP - khốn cùng)
+芝,(CHI - cỏ)
+乙,(ẤT - can ất)
+康,(KHANG - an khang)
+崗,(CƯƠNG - sườn núi)
+剛,(CƯƠNG - cứng)
+鋼,(CƯƠNG - thép)
+綱,(CƯƠNG - dây thừng)
+甘,(CAM - ngọt)
+紺,(CÁM - xanh sẫm)
+某,(MÔ - nào đó)
+媒,(MÔI - môi giới)
+朴,(PHÁC, BỐC - chất phác)
+訃,(PHÓ - cáo phó)
+頃,(KHOẢNH - khoảnh khắc)
+乞,(KHẤT - ăn xin)
+謀,(MƯU - mưu mô)
+卜,(BỐC - xem bói)
+赴,(PHÓ - tới nhận chức)
+未,(VỊ - cái cày)
+耕,(CANH - canh tác)
+傾,(KHUYNH - khuynh hướng)
+煩,(PHIỀN - phiền não)
+須,(TU - cần thiết)
+享,(HƯỞNG - hưởng thụ)
+郭,(QUÁCH - thành quách)
+塾,(THỤC - tư thục)
+耗,(HÁO - hao sút)
+拝,(BÁI - khấn bái)
+淳,(THUẦN - trong sạch)
+醇,(THUẦN - rượu ngon)
+孰,(THỤC - thuần thục)
+傘,(TÁN - cái ô)
+鬼,(QUỶ - con quỷ)
+醜,(XÚ - xấu xí)
+塊,(KHỐI - cục, tảng)
+竜,(LONG - con rồng)
+滝,(LẠNG - thác nước)
+俺,(YÊM - ta đây)
+爽,(SẢNG - sảng khoái)
+璽,(TỈ - ngọc tỉ)
+鬱,(UẤT - uất ức)
+狂,(CUỒNG - cuồng nhiệt)
+旺,(VƯỢNG - sáng sủa)
+班,(BAN - nhóm)
+潤,(NHUẬN - lợi nhuận)
+命,(MỆNH - mệnh lệnh)
+印,(ẤN - ấn tượng)
+別,(BIỆT - phân biệt)
+刷,(LOÁT - in ấn)
+仁,(NHÂN - nhân sĩ)
+全,(TOÀN - toàn bộ)
+栓,(XUYÊN - nút chai)
+罰,(PHẠT - hình phạt)
+拐,(QUẢI - bắt cóc)
+刈,(NGẢI - cắt cỏ)
+又,(HỰU - lại nữa)
+佐,(TÁ - đại tá)
+抜,(BẠT - rút ra)
+拓,(THÁC - khai thác)
+科,(KHOA - khoa học)
+料,(LIÊU - nguyên liệu)
+勇,(DŨNG - dũng cảm)
+双,(SONG - song sinh)
+桑,(TANG - cây dâu)
+暇,(HẠ - nhàn hạ)
+触,(XÚC - tiếp xúc, sờ)
+男,(NAM - đàn ông)
+踊,(DŨNG - nhảy múa)
+湧,(DŨNG - sôi sục)
+用,(DỤNG - sử dụng)
+備,(BỊ - chuẩn bị)
+角,(GIÁC - góc, cái sừng)
+解,(GIẢI - giải quyết)
+材,(TÀI - tài liệu)
+通,(THÔNG - giao thông)
+痛,(THỐNG - đau đớn)
+猟,(LIỆP - săn bắn)
+斗,(ĐẤU - cái đấu)
+才,(TÀI - thiên tài)
+代,(ĐẠI - thời đại)
+財,(TÀI - tài chính)
+貸,(THẢI - cho vay)
+渉,(THIỆP - can thiệp)
+頻,(TẦN - tần suất)
+鉛,(DUYÊN - chất chì)
+造,(TẠO - sáng tạo)
+袋,(ĐẠI - cái túi)
+歩,(BỘ - đi bộ)
+船,(THUYỀN - cái thuyền)
+沿,(DUYÊN - men theo)
+告,(CÁO - quảng cáo)
+壮,(TRÁNG - cường tráng)
+酷,(KHỐC - khốc liệt)
+装,(TRANG - trang phục)
+梨,(LÊ - quả lê)
+痢,(LỊ - bệnh lị)
+称,(XƯNG - xưng tên)
+直,(Trực - Trực tiếp)
+荘,(TRANG - trang trại)
+利,(LỢI - tiện lợi)
+留,(LƯU - lưu lại)
+瑠,(LƯU - ngọc lưu ly)
+貿,(MẬU - buôn bán)
+現,(Hiện - Hiện thực)
+値,(Trị - Giá trị)
+置,(Trí - Đặt, để)
+植,(Thực - Trồng cây)
+殖,(Thực - Thực dân)
+買,(Mãi - Mua)
+唄,(Bài - Bài hát)
+規,(Quy - Quy tắc)
+寛,(Khoan - Khoan dung)
+負,(Phụ - Thua)
+敗,(Bại - Thất bại)
+則,(Tắc - Quy tắc)
+側,(Trắc - Phía)
+員,(Viên - Nhân viên)
+損,(Tổn - Tổn hại)
+韻,(Vận - Vần điệu)
+糸,(Mịch - Sợi tơ)
+字,(Tự - Chữ)
+学,(Học - Học sinh)
+測,(Trắc - Đo đạc)
+賛,(Tán - Tán thành)
+質,(Chất - Chất lượng)
+系,(Hệ - Hệ thống)
+係,(Hệ - Quan hệ)
+孫,(Tôn - Cháu)
+乳,(Nhũ - Sữa)
+生,(Sinh - Học sinh)
+性,(Tính - Tính cách)
+姓,(Tính - Họ)
+牲,(Sinh - Hy sinh)
+化,(Hóa - Biến hóa)
+浮,(Phù - Nổi lên)
+遜,(Tốn - Khiêm tốn)
+索,(Tác - Tìm kiếm)
+素,(Tố - Yếu tố)
+麦,(Mạch - Lúa mạch)
+星,(Tinh - Ngôi sao)
+花,(Hoa - Bông hoa)
+貨,(Hóa - Hàng hóa)
+靴,(Ngoa - Giày dép)
+連,(Liên - Liên lạc)
+運,(Vận - Vận động)
+軍,(Quân - Quân đội)
+醒,(Tỉnh - Tỉnh cơn say)
+産,(Sản - Sinh sản)
+車,(Xa - Xe ôtô)
+雨,(Vũ - Mưa)
+雷,(Lôi - Sấm)
+電,(Điện - Dòng điện)
+雪,(Tuyết - Bông tuyết)
+暫,(Tạm - Tạm thời)
+漸,(Tiệm - Tiệm cận)
+軸,(Trục - Cái trục xe)
+陣,(Trận - Trận địa)
+舌,(Thiệt - Cái lưỡi)
+斬,(Trảm - Chém)
+揮,(Huy - Chỉ huy)
+輝,(Huy - Huy hoàng)
+庫,(Khố - Kho)
+乱,(Loạn - Hỗn loạn)
+話,(Thoại - Hội thoại)
+活,(Hoạt - Sinh hoạt)
+侍,(Thị - Người hầu)
+寺,(Tự - Chùa)
+時,(Thời - Thời gian)
+持,(Trì - Duy trì)
+氷,(Băng - Đá)
+括,(Quát - Bao quát)
+待,(Đãi - Đợi)
+特,(Đặc - Đặc biệt)
+等,(Đẳng - Bình đẳng)
+詩,(Thi - Thi ca)
+永,(Vĩnh - Vĩnh cửu)
+詠,(Vịnh - Ngâm thơ)
+紳,(Thân - Đàn ông)
+家,(Gia - Gia đình)
+嫁,(Giá - Lấy chồng)
+稼,(Giá - Kiếm tiền)
+泳,(Vịnh - Bơi)
+伸,(Thân - Dãn ra)
+豚,(Đồn - Con lợn)
+録,(Lục - Kỷ lục)
+緑,(Lục - Xanh lá cây)
+剥,(Bác - Bóc, gọt)
+縁,(Duyên - Duyên số)
+豪,(Hào - Hào hoa)
+象,(Tượng - Con voi)
+像,(Tượng - Hình tượng)
+隊,(Đội - Bộ đội)
+敏,(Mẫn - Mẫn cảm)
+墜,(Truy - Rơi xuống)
+逐,(Trục - Trục xuất)
+塚,(Trùng - Đống đất)
+遂,(Toại - Toại nguyện)
+悔,(Vũ - Khinh thường)
+繁,(Phồn - Phồn thịnh)
+郎,(Lang - Con trai)
+良,(Lương - Tốt)
+食,(Thực - Ăn)
+娘,(Nương - Con gái)
+限,(Hạn - Giới hạn)
+毒,(Độc - Thuốc độc)
+廊,(Lang - Hành lang)
+朗,(Lãng - Rõ ràng)
+浪,(Lãng - Lãng tử)
+狼,(Lang - Chó sói)
+眼,(Nhãn - Nhãn cầu)
+銀,(Ngân - Bạc)
+痕,(Ngân - Vết sẹo)
+恨,(Hận - Hận thù)
+魚,(Ngư - Cá)
+漁,(Ngư - Ngư nghiệp)
+介,(Giới - Giới thiệu)
+退,(Thoái - Rút lui)
+爵,(Tước - Tước hầu)
+根,(Căn - Gốc rễ)
+郷,(Hương - Quê hương)
+響,(Hưởng - Âm hưởng)
+即,(Tức - Tức khắc)
+界,(Giới - Thế giới)
+野,(Dã - Hoang dã)
+里,(Lí - Làng)
+理,(Lí - Lí do)
+鯉,(Lí - Cá chép)
+黒,(Hắc - Màu đen)
+節,(Tiết - Tiết kiệm)
+埋,(Mai - Chôn)
+量,(Lượng - Số lượng)
+糧,(Lương - Lương thực)
+裏,(Lí - Mặt trái)
+墨,(Mặc - Mực đen)
+童,(Đồng - Nhi đồng)
+瞳,(Đồng - Đồng tử)
+鐘,(Chung - Chuông)
+首,(Thủ - Thủ tướng, cổ)
+予,(Dự - Dự báo)
+預,(Dự - Gửi)
+黙,(Mặc - Lặng im)
+厘,(Li - Một ít)
+憧,(Sung - Mong ước)
+道,(Đạo - Đường đi)
+導,(Đạo - Chỉ đạo)
+序,(Tự - Thứ tự)
+行,(Hành - Đi)
+友,(Hữu - Bạn bè)
+有,(Hữu - Có)
+図,(Đồ - Bản đồ)
+円,(Viên - Tiền Yên, vòng tròn)
+下,(Hạ - Bên dưới)
+左,(Tả - Bên trái)
+右,(Hữu - Bên phải)
+母,(Mẫu - Mẹ)
+日,(Nhật - Ngày)
+月,(Nguyệt - Tháng, mặt trăng)
+副,(Phó - Phó giám đốc)
+相,(Tương/Tướng - Tương tự)
+箱,(Tương - Cái hộp)
+想,(Tưởng - Tưởng tượng)
+先,(Tiên - Tiên sinh)
+石,(Thạch - Đá)
+福,(Phúc - Phúc lợi)
+幅,(Phúc - Bề ngang)
+富,(Phú - Phong phú)
+霜,(Sương - Sương muối)
+支,(Chi - Chi nhánh)
+中,(Trung - Ở giữa)
+忠,(Trung - Trung thành)
+仲,(Trọng - Trọng tài)
+文,(Văn - Văn học)
+紋,(Văn - Hoa văn)
+肢,(Chi - Tay chân)
+枝,(Chi - Cành cây)
+技,(Kĩ - Kĩ thuật)
+沖,(Trùng - Rộng lớn)
+伎,(Kĩ - Kĩ nghệ)
+岐,(Kì - Phân nhánh)
+蚊,(Văn - Con muỗi)
+波,(Ba - Sóng)
+皮,(Bì - Da)
+疲,(Bì - Mệt mỏi)
+彼,(Bỉ - Anh ấy)
+妃,(Phi - Phi tần)
+対,(Đối - Phản đối)
+婆,(Bà - Bà già)
+破,(Phá - Phá rách)
+披,(Phi - Vạch ra)
+被,(Bị - Bị hại)
+起,(Khởi - Thức dậy)
+己,(Kỉ - Bản thân)
+紀,(Kỉ - Thế kỷ)
+記,(Kỉ - Nhật ký)
+効,(Hiệu - Hiệu quả)
+父,(Phụ - Bố)
+釜,(Phủ - Cái nồi)
+改,(Cải - Cải cách)
+配,(Phối - Chi phối)
+忌,(Kị - Đố kỵ)
+郊,(Giao - Ngoại ô)
+絞,(Giảo - Vắt, thắt)
+較,(Giác - So sánh)
+交,(Giao - Giao lưu)
+験,(Nghiệm - Thí nghiệm)
+取,(Thủ - Lấy)
+趣,(Thú - Hứng thú)
+最,(Tối - Tối cao)
+会,(Hội - Gặp gỡ)
+校,(Hiệu - Trường học)
+険,(Hiểm - Nguy hiểm)
+倹,(Kiệm - Tiết kiệm)
+検,(Kiểm - Kiểm tra)
+撮,(Toát - Chụp ảnh)
+剣,(Kiếm - Kiếm đạo)
+絵,(Hội - Bức tranh)
+伝,(Truyền - Tuyên truyền)
+芸,(Nghệ, vân - Nghệ thuật)
+雲,(Vân - Mây)
+曇,(Đàm - Trời mây)
+魂,(Hồn - Linh hồn)
+転,(Chuyển - Chuyển động)
+兄,(Huynh - Anh trai)
+況,(Huống - Tình huống)
+祝,(Chúc - Chúc mừng)
+克,(Khắc - Khắc phục)
+税,(Thuế - Tô thuế)
+呪,(Chú - Thần chú)
+党,(Đảng - Đảng phái)
+競,(Cạnh - Cạnh tranh)
+場,(Trường - Công trường)
+傷,(Thương - Vết thương)
+腸,(Tràng/Trường - Đại tràng)
+鋭,(Nhuệ - Tinh nhuệ)
+脱,(Thoát - Cởi bỏ)
+説,(Thuyết - Diễn thuyết)
+悦,(Duyệt - Mãn nguyện)
+閲,(Duyệt - Kiểm duyệt)
+湯,(Thang - Nước nóng)
+酔,(Túy - Say)
+粋,(Túy - Tinh túy)
+砕,(Toái - Phá vỡ)
+枠,(Khung - Cái khung)
+影,(Ảnh - Ảo ảnh)
+鯨,(Kinh - Cá voi)
+陽,(Dương - Mặt trời)
+揚,(Dương - Tuyên dương)
+瘍,(Dương - Lở loét)
+憬,(Cảnh - Cảnh tỉnh)
+京,(Kinh - Kinh đô)
+涼,(Lương - Mát mẻ)
+景,(Cảnh - Cảnh sắc)
+著,(Trứ - Trứ danh)
+箸,(Trứ - Đôi đũa)
+都,(Đô - Kinh đô)
+緒,(Tự - Cùng nhau)
+賭,(Đổ - Đánh bạc)
+煮,(Chử - Đun nấu)
+著,(Giả - Tác giả)
+暑,(Thử - Sức nóng)
+署,(Thự - Chức vụ)
+責,(Trách - Trách nhiệm)
+債,(Trái - Khoản nợ)
+諸,(Chư - Chư hầu)
+積,(Tích - Tích trữ)
+漬,(Tí - Ngâm)
+招,(Chiêu - Chiêu đãi)
+重,(Trọng - Nặng)
+種,(Chủng - Chủng loại)
+績,(Tích - Thành tích)
+召,(Triệu - Triệu tập)
+紹介,(Thiệu - Giới thiệu)
+超,(Siêu - Siêu phàm)
+昭,(Chiêu - Sáng rõ)
+照,(Chiêu - Chiếu sáng)
+腫,(Thũng - Sưng lên)
+衝,(Xung - Xung đột)
+果,(Quả - Kết quả)
+菓,(Quả - Bánh kẹo)
+課,(Khóa - Khóa học)
+裸,(Khỏa - Khỏa thân)
+詔,(Chiêu - Chiếu chỉ)
+沼,(Chiểu - Đầm lầy)
+動,(Động - Chuyển động)
+働,(Động - Lao động)
+勲,(Huân - Huân chương)
+薫,(Huân - Thơm)
+古,(Cổ - Cũ)
+故,(Cố - Sự cố)
+固,(Cố - Kiên cố)
+居,(Cư - Cư trú)
+箇,(Cá - Số đếm)
+枯,(Khô - Khô héo)
+巣,(Sào - Tổ chim)
+彙,(Vị - Cùng loại)
+個,(Cá - Cá tính)
+据,(Cư - Lắp đặt)
+裾,(Cư - Vạt áo)
+苦,(Khổ - Khốn khổ)
+湖,(Hồ - Cái hồ)
+前,(Tiền - Trước)
+後,(Hậu - Sau)
+気,(Khí - Nguyên khí)
+汽,(Khí - Hơi nước)
+人,(Nhân - Người)
+東,(Đông - Phía Đông)
+西,(Tây - Phía Tây)
+南,(Nam - Phía Nam)
+北,(Bắc - Phía Bắc)
+天,(Thiên - Trời)
+矢,(Thi - Mũi tên)
+大,(Đại - To lớn)
+犬,(Khuyển - Con chó)
+太,(Thái - Béo)
+俗,(Tục - Phong tục)
+裕,(Dụ - Giàu có)
+浴,(Dục - Tắm)
+夫,(Phu - Chồng)
+失,(Thất - Thất bại)
+溶,(Dung - Dung dịch)
+谷,(Cốc - Thung lũng)
+欲,(Dục - Dục vọng)
+容,(Dung - Nội dung)
+怠,(Đãi - Lười biếng)
+台,(Đài - Vũ đài)
+冶,(Dã - Thợ rèn)
+反,(Phản - Phản đối)
+士,(Sĩ - Binh sĩ)
+仕,(Sĩ - Công việc)
+胎,(Thai - Bào thai)
+始,(Thủy - Bắt đầu)
+治,(Trị - Trị liệu)
+返,(Phản - Trả lại)
+坂,(Phản - Con dốc)
+飯,(Phạn - Cơm)
+志,(Chí - Ý chí)
+服,(Phục - Đồng phục)
+版,(Bản - Xuất bản)
+仮,(Giả - Giả thuyết)
+及,(Cập - Phổ cập)
+周,(Chu - Chu vi)
+誌,(Chí - Tạp chí)
+報,(Báo - Báo cáo)
+板,(Bản - Tấm bảng)
+販,(Phiến - Buôn bán)
+級,(Cấp - Cấp độ)
+吸,(Hấp - Hô hấp, hút)
+週,(Chu - Tuần)
+調,(Điều - Điều tra)
+貼,(Thiếp - Dán)
+店,(Điếm - Cửa hàng)
+粘,(Niêm - Dính)
+鮮,(Tiên - Tươi sống)
+扱,(Tráp - Đối xử)
+彫,(Điêu - Điêu khắc)
+占,(Chiêm - Chiếm lấy)
+点,(Điểm - Điểm số)
+養,(Dưỡng - Dinh dưỡng)
+羊,(Dương - Con dê)
+洋,(Dương - Đại dương)
+祥,(Tường - Cát tường)
+兆,(Triệu - 1000 tỷ)
+跳,(Khiêu - Khiêu vũ)
+眺,(Thiếu - Tầm nhìn)
+白,(Bạch - Màu trắng)
+詳,(Tường - Rõ ràng)
+逃,(Đào - Đào tẩu)
+桃,(Đào - Cây đào)
+挑,(Khiêu - Khiêu khích)
+迫,(Bách - Bí bách)
+拍,(Phách - Vỗ tay)
+伯,(Bá - Bá tước)
+泊,(Bạc - Trọ lại)
+舶,(Bạc - Tàu buôn)
+原,(Nguyên - Nguyên nhân)
+線,(Tuyến - Tuyến đường)
+願,(Nguyện - Nguyện ước)
+宿,(Túc - Tá túc)
+縮,(Súc - Co lại)
+泉,(Tuyền - Suối)
+源,(Nguyên - Nguyên thủy)
+腺,(Tuyến - Tuyến cơ thể)
+売,(Mại - Bán)
+兔,(Miễn - Miễn tội)
+勉,(Miễn - Miễn cưỡng)
+晩,(Vãn - Buổi tối)
+次,(Thứ - Tiếp theo)
+姿,(Tư - Tư thế)
+資,(Tư - Đầu tư)
+読,(Độc - Đọc)
+続,(Tục - Tiếp tục)
+逸,(Dật - Ẩn dật)
+欠,(Khiếm - Khiếm khuyết)
+飲,(Ẩm - Uống)
+吹,(Xúy - Thổi)
+諮,(Tư - Tư vấn)
+恣,(Tứ - Ích kỷ)
+茨,(Tì - Cỏ gai)
+盗,(Đạo - Đạo tặc)
+荷,(Hà - Hành lý)
+歌,(Ca - Ca hát)
+炊,(Xúy - Đun, nấu)
+款,(Khoản - Điều khoản)
+軟,(Nhuyễn - Mềm)
+羨,(Tiện - Ham muốn)
+可,(Khả - Khả năng)
+苛,(Hà - Bắt nạt)
+局,(Cục - Cục bộ)
+何,(Hà - Cái gì)
+未,(Vị - Vị thành niên)
+味,(Vị - Hương vị)
+妹,(Muội - Em gái)
+昧,(Muội - Ngu muội)
+河,(Hà - Sông)
+半,(Bán - Một nửa)
+伴,(Bạn - Bầu bạn)
+畔,(Bạn - Bờ ruộng)
+判,(Phán - Phán đoán)
+魅,(Mị - Ma mị)
+朱,(Chu - Sắc đỏ)
+株,(Chu - Cổ phiếu)
+殊,(Thù - Đặc thù)
+詐,(Trá - Dối trá)
+昨,(Tạc - Hôm qua)
+搾,(Trá - Ép, vắt)
+末,(Mạt - Cuối cùng)
+抹,(Mạt - Mạt sát)
+珠,(Châu - Châu báu)
+作,(Tác - Tác giả)
+酢,(Tạc - Giấm ăn)
+早,(Tảo - Sớm)
+方,(Phương - Phương hướng)
+芳,(Phương - Thơm)
+肪,(Phương - Mỡ)
+妨,(Phương - Phương hại)
+坊,(Phương - Phố phường)
+紡,(Phương - Dệt vải)
+草,(Thảo - Cỏ)
+卓,(Trác - Cái bàn)
+悼,(Điệu - Truy điệu)
+訪,(Phỏng - Phỏng vấn)
+放,(Phóng - Giải phóng)
+倣,(Phỏng - Mô phỏng)
+防,(Phòng - Phòng chống)
+房,(Phòng - Căn phòng)
+私,(Tư - Tôi)
+仏,(Phật - Phật Giáo)
+払,(Phất - Trả tiền)
+夕,(Tịch - Chiều tối)
+敷,(Phu - Trải, lát)
+激,(Kích - Khích lệ)
+傲,(Ngạo - Ngạo mạn)
+傍,(Bàng - Bên cạnh)
+広,(Quảng - Rộng lớn)
+水,(Thủy - Nước)
+風,(Phong - Gió)
+和,(Hòa - Hòa bình)
+田,(Điền - Ruộng)
+子,(Tử - Con)
+女,(Nữ - Phụ nữ)
+物,(Vật - Động vật)
+火,(Hỏa - Lửa)
+木,(Mộc - Cây)
+金,(Kim - Tiền, vàng)
+山,(Sơn - Núi)
+川,(Xuyên - Sông)
+口,(Khẩu - Cái miệng)
+手,(Thủ - Cái tay)
+鉱,(Khoáng - Khoáng sản)
+拡,(Khuếch - Khuếch đại)
+姉,(Tỉ - Chị gái)
+嗣,(Tự - Con cháu)
+伺,(Tứ - Dò xét)
+小,(Tiểu - Nhỏ)
+市,(Thị - Thành phố)
+柿,(Thị - Cây hồng)
+肺,(Phế - Phổi)
+司,(Ti - Quản lý)
+詞,(Từ - Ca từ)
+飼,(Tự - Nuôi)
+自,(Tự - Tự tin)
+息,(Tức - Hơi thở)
+憩,(Khế - Nghỉ ngơi)
+臭,(Xú - Hôi thối)
+皿,(Mãnh - Cái đĩa)
+嗅,(Khứu - Ngửi)
+身,(Thân - Bản thân)
+射,(Xạ - Bắn)
+謝,(Tạ - Cảm tạ)
+猛,(Mãnh - Mãnh liệt)
+塩,(Diêm - Muối)
+温,(Ôn - Ôn hòa, Ấm)
+分,(Phân - Phân chia)
+紛,(Phân - Lộn xộn)
+雰,(Phân - Bầu không khí)
+粉,(Phân - Bột)
+今,(Kim - Bây giờ)
+吟,(Ngâm - Ngâm thơ)
+含,(Hàm - Nội hàm)
+貪,(Tham - Tham lam)
+令,(Lệnh - Mệnh lệnh)
+貧,(Bần - Bần cùng, nghèo)
+盆,(Bồn - Cái khay)
+頒,(Ban, phân - Phân bố)
+寡,(Quả - Quả phụ)
+念,(Niệm - Kỉ niệm)
+捻,(Niệm - Vặn, xoắn)
+冷,(Lãnh - Lạnh)
+領,(Lĩnh - Thủ lĩnh)
+零,(Linh - Số 0)
+工,(Công - Công nhân)
+攻,(Công - Tấn công)
+貢,(Cống - Cống hiến)
+陰,(Âm - Âm u)
+琴,(Cầm - Đàn)
+齢,(Linh - Tuổi)
+鈴,(Linh - Quả chuông)
+功,(Công - Thành công)
+空,(Không - Không khí)
+紅,(Hồng - Hồng trà)
+虹,(Hồng - Cầu vồng)
+項,(Hạng - Hạng mục)
+合,(Hợp - Hòa hợp)
+拾,(Thập - Thu thập)
+給,(Cấp - Cung cấp)
+控,(Khống - Khống chế)
+江,(Giang - Giang sơn)
+是,(Thị - Thị phi)
+堤,(Đê - Con đê)
+題,(Đề - Vấn đề)
+提,(Đề - Đề án)
+答,(Đáp - Đáp án)
+外,(Ngoại - Bên ngoài)
+夢,(Mộng - Giấc mơ)
+多,(Đa - Nhiều)
+移,(Di - Di chuyển)
+各,(Các - Các vị)
+搭,(Đáp - Đưa lên)
+塔,(Tháp - Cái tháp)
+倉,(Thương - Thương khó)
+創,(Sáng - Sáng tạo)
+名,(Danh - Tên)
+銘,(Minh - Khắc tên)
+客,(Khách - Quý khách)
+額,(Ngạch - Kim ngạch)
+格,(Cách - Tính cách)
+略,(Lược - Chiến lược)
+絡,(Lạc - Liên lạc)
+酪,(Lạc - Bơ lạc)
+夜,(Dạ - Buổi đêm)
+液,(Dịch - Dung dịch)
+落,(Lạc - Rơi xuống)
+賂,(Lộ - Hối lộ)
+路,(Lộ - Con đường)
+露,(Lộ - Sương mù)
+閣,(Các - Nội các)
+豆,(Đậu - Hạt đậu)
+痘,(Đậu - Thủy đậu)
+頭,(Đầu - Cái đầu)
+短,(Đoản - Ngắn)
+几,(Kỉ - Cái ghế)
+登,(Đăng - Đăng ký)
+澄,(Trừng - Làm sạch)
+闘,(Đấu - Chiến đấu)
+喜,(Hỉ - Vui mừng)
+樹,(Thụ - Cổ thụ)
+鼓,(Cổ - Cái trống)
+机,(Kỉ, Cơ - Cái bàn)
+肌,(Cơ - Da)
+処,(Xử - Xử lý)
+拠,(Cứ - Chứng cứ)
+冗,(Nhũng - Trò đùa)
+航,(Hàng - Hàng không)
+膨,(Bành - Bành trướng)
+飢,(Cơ - Đói)
+汎,(Phiếm - Phù phiếm)
+築,(Trúc - Kiến trúc)
+抗,(Kháng - Kháng cự)
+坑,(Khanh - Hố đào)
+凡,(Phàm - Phi phàm)
+帆,(Phàm - Thuyền buồm)
+尺,(Xích - Cái thước)
+駅,(Dịch - Nhà ga)
+恐,(Khủng - Khủng hoảng)
+釈,(Thích - Giải thích)
+唱,(Xướng - Ca xướng)
+晶,(Tinh - Kết tinh)
+冒,(Mạo - Mạo hiểm)
+帽,(Mạo - Mũ)
+訳,(Dịch - Phiên dịch)
+択,(Trạch - Tuyển chọn)
+沢,(Trạch - Đầm nước)
+昼,(Trú - Buổi trưa)
+尽,(Tận - Tận cùng)
+替,(Thế - Thay thế)
+踏,(Đạp - Đạp đổ)
+卒,(Tốt - Tốt nghiệp)
+内,(Nội - Bên trong)
+肉,(Nhục - Thịt)
+毛,(Mao - Lông)
+足,(Túc - Chân)
+潜,(Tiềm - Tiềm ẩn)
+冥,(Minh - U tối)
+厚,(Hậu - Bề dày)
+入,(Nhập - Đông đúc)
+耳,(Nhĩ - Tai)
+恥,(Sỉ - Xấu hổ)
+走,(Tẩu - Chạy)
+入,(Nhập - Đi vào)
+社,(Xã - Xã hội)
+光,(Quang - Sáng)
+当,(Đương - Đương nhiên)
+酒,(Tửu - Rượu)
+心,(Tâm - Trái tim)
+画,(Họa, hoạch - Họa sĩ)
+回,(Hồi - Quay lại)
+向,(Hướng - Hướng về)
+馬,(Mã - Con ngựa)
+座,(Tọa - Ngồi)
+納,(Nạp - Nộp)
+丙,(Bính - Can bính)
+病,(Bệnh - Bệnh tật)
+突,(Đột - Đột nhiên)
+戻,(Lệ - Quay lại)
+涙,(Lệ - Nước mắt)
+挫,(Tỏa - Bẻ cong)
+柄,(Bính - Cái chuôi)
+姻,(Nhân - Hôn nhân)
+咽,(Yết - Cổ họng)
+恩,(Ân - Ân nhân)
+因,(Nhân - Nguyên nhân)
+献,(Hiến - Hiến dâng)
+然,(Nhiên - Tự nhiên)
+燃,(Nhiên - Nhiên liệu)
+獣,(Thú - Thú vật)
+妖,(Yêu - Yêu quái)
+笑,(Tiếu - Cười)
+伏,(Phục - Phục kích)
+状,(Trạng - Trạng thái)
+獄,(Ngục - Địa ngục)
+関,(Quan - Quan hệ)
+送,(Tống - Gửi đi)
+咲,(Tiếu - Nở hoa)
+沃,(Ốc - Màu mỡ)
+添,(Thiêm - Thêm vào)
+知,(Tri - Tri thức)
+智,(Trí - Trí tuệ)
+痴,(Si - Ngu si)
+少,(Thiếu - Thiếu số)
+朕,(Trẫm - Xưng vua)
+嫉,(Tật - Ghen ghét)
+医,(Y - Y tế)
+挨,(Ai - Chào hỏi)
+疾,(Tật - Bệnh tật)
+土,(Thổ - Đất)
+秒,(Miểu - Giây)
+妙,(Diệu - Kỳ diệu)
+砂,(Sa - Cát)
+省,(Tỉnh - Tỉnh lược)
+賓,(Tân - Khách quý)
+抄,(Sao - Sao chép)
+吐,(Thổ - Thổ ra)
+圧,(Áp - Áp lực)
+粧,(Trang - Hóa trang)
+沙,(Sa - Sa thải)
+炒,(Sao - Xào)
+劣,(Liệt - Yếu kém)
+泌,(Bí - Tiết ra)
+密,(Mật - Bí mật)
+蜜,(Mật - Mật ong)
+秘,(Bí - Bí mật)
+力,(Lực - Sức lực)
+労,(Lao - Lao động)
+応,(Ứng - Phản ứng)
+芯,(Tâm - Cái lõi)
+必,(Tất - Tất yếu)
+栃,(Dẻ - Hạt dẻ)
+脅,(Hiếp - Ăn hiếp)
+脇,(Hiếp - Cái nách)
+筋,(Cân - Bắp thịt)
+励,(Lệ - Khích lệ)
+央,(Ương - Trung ương)
+映,(Ánh - Phản ánh)
+紙,(Chỉ - Tờ giấy)
+婚,(Hôn - Kết hôn)
+協,(Hiệp - Hiệp lực)
+快,(Khoái - Khoái lạc)
+英,(Anh - Tiếng Anh)
+決,(Quyết - Quyết định)
+受,(Thụ - Nhận)
+授,(Thụ - Truyền thụ)
+民,(Dân - Dân chúng)
+眠,(Miên - Ngủ)
+夏,(Hạ - Mùa hè)
+憂,(Ưu - Buồn rầu)
+優,(Ưu - Hiền lành)
+面,(Diện - Màn hình)
+愛,(Ái - Yêu)
+曖,(Ái - Ái muội)
+羽,(Vũ - Lông chim)
+習,(Tập - Luyện tập)
+翌,(Dực - Ngày mai)
+扇,(Phiến - Cái quạt)
+網,(Võng - Cái võng)
+忙,(Mang - Bận rộn)
+盲,(Manh - Mù)
+望,(Vọng - Hy vọng)
+園,(Viên - Công viên)
+猿,(Viên - Con khỉ)
+亡,(Vong - Chết)
+忘,(Vong - Quên)
+妄,(Vọng - Vọng tưởng)
+還,(Hoàn - Hoàn trả)
+遠,(Viễn - Xa)
+環,(Hoàn - Vòng tròn)
+錯,(Thác - Thác loạn)
+措,(Thố - Trừ ra)
+籍,(Tịch - Quốc tịch)
+経,(Kinh - Kinh tế)
+胸,(Hung - Ngực)
+軽,(Khinh - Khinh suất)
+昔,(Tích - Cổ tích)
+惜,(Tích - Tiếc)
+借,(Tá - Vay, mượn)
+凶,(Hung - Hung ác)
+径,(Kính - Bán kính)
+脳,(Não - Não bộ)
+怪,(Quái - Quái vật)
+茎,(Hành - Cuống, cọng)
+完,(Hoàn - Hoàn thành)
+頑,(Ngoan - Ngoan cố)
+嬢,(Nương - Cô gái)
+譲,(Nhượng - Nhượng bộ)
+悩,(Não - Phiền não)
+元,(Nguyên - Nguyên khí)
+院,(Viện - Bệnh viện)
+玩,(Ngoạn - Du ngoạn)
+冠,(Quán - Đứng đầu)
+壌,(Nhượng - Thổ nhượng)
+醸,(Nhượng - Lên men)
+区,(Khu - Khu vực)
+枢,(Xu - Khu trung tâm)
+老,(Lão - Người già)
+考,(Khảo - Suy nghĩ)
+拷,(Khảo - Tra khảo)
+殴,(Ẩu - Ẩu đả)
+駆,(Khu - Tiến đến)
+欧,(Âu - Châu Âu)
+教,(Giáo - Giáo dục)
+酵,(Diếu - Lên men)
+孝,(Hiếu - Hiếu thảo)
+片,(Phiến - Tấm, mảnh)
+鼻,(Tị - Cái mũi)
+竹,(Trúc - Tre)
+村,(Thôn - Làng)
+言,(Ngôn - Nói)
+信,(Tín - Tin tưởng)
+匹,(Thất - Đếm con vật)
+刀,(Đao - Cái đao)
+穴,(Huyệt - Cái lỗ)
+貝,(Bối - Con sò)
+氏,(Thị - Họ)
+語,(Ngữ - Ngôn ngữ)
+悟,(Ngộ - Giác ngộ)
+苗,(Miêu - Cây non)
+描,(Miêu - Miêu tả)
+猫,(Miêu - Con mèo)
+細胞,(Tế - Tế bào)
+久,(Cửu - Vĩnh cửu)
+畑,(Vườn - Ruộng hoa màu)
+思,(Tư - Suy nghĩ)
+恵,(Huệ - Ân huệ)
+穂,(Tuệ - Bông lúa)
+由,(Do - Tự do)
+畝,(Mẫu - Mẫu ruộng)
+袖,(Tụ - Tay áo)
+笛,(Địch - Cái sáo)
+黄,(Hoàng - Màu vàng)
+横,(Hoành - Trục hoành)
+曲,(Khúc - Khúc nhạc)
+油,(Du - Dầu ăn)
+宙,(Trụ - Vũ trụ)
+抽,(Trừu - Trừu tượng)
+届,(Giới - Gửi tới)
+演,(Diễn - Diễn xuất)
+豊,(Phong - Phong phú)
+典,(Điển - Từ điển)
+農,(Nông - Nông nghiệp)
+濃,(Nông - Nồng đậm)
+遭,(Tao - Bắt gặp)
+博,(Bác - Bác học)
+簿,(Bộ - Danh bạ)
+艶,(Diễm - Diễm lệ)
+曹,(Tào - Họ Tào)
+槽,(Tào - Cái máng)
+専,(Chuyên - Chuyên môn)
+薄,(Bạc - Nhạt)
+縛,(Phược - Buộc)
+筆,(Bút - Cái bút)
+津,(Tân - Thiên tân)
+建,(Kiến - Kiến trúc)
+青,(Thanh - Màu xanh)
+清,(Thanh - Thanh khiết)
+晴,(Tình - Trời nắng)
+律,(Luật - Luật pháp)
+書,(Thư - Viết)
+健,(Kiện - Tráng kiện)
+鍵,(Kiện - Chìa khóa)
+情,(Tình - Tình cảm)
+精,(Tinh - Tinh luyện)
+羅,(La - La bàn)
+堆,(Đôi - Chất đống)
+焦,(Tiêu - Tiêu điểm)
+雑,(Tạp - Tạp chí)
+誰,(Thùy - Ai đó)
+進,(Tiến - Tiến bộ)
+唯,(Duy - Duy nhất)
+維,(Duy - Duy trì)
+礁,(Tiêu - Đá ngầm)
+集,(Tập - Tập trung)
+椎,(Chùy - Nện, đánh)
+稚,(Trĩ - Ấu trĩ)
+樵,(Tiêu - Tiêu phu)
+確,(Xác - Chính xác)
+奮,(Phấn - Hưng phấn)
+奪,(Đoạt - Chiếm đoạt)
+顧,(Cố - Hồi tưởng)
+獲,(Hoạch - Săn bắt)
+曜,(Diệu - Ngày)
+躍,(Dược - Nhảy múa)
+濯,(Trạc - Giặt giũ)
+雇,(Cố - Thuê mướn)
+隻,(Chích - Đếm tàu)
+護,(Hộ - Bảo hộ)
+観,(Quan - Quan sát)
+権,(Quyền - Quyền lợi)
+勧,(Khuyến - Khuyến khích)
+雄,(Hùng - Giống đực)
+離,(Li - Cách ly)
+璃,(Li - Pha lê)
+穫,(Hoạch - Thu hoạch)
+歓,(Hoan - Hoan hỉ)
+催,(Thôi - Thôi thúc)
+擁,(Ủng - Ủng hộ)
+雌,(Thư - Giống cái)
+包,(Bao - Bao bọc)
+泡,(Phao - Bọt nước)
+砲,(Pháo - Pháo)
+抱,(Bão - Ôm)
+均,(Quân - Bình quân)
+濁,(Trọc - Nước đục)
+釣,(Điêu - Câu cá)
+胞,(Bào - Tế bào)
+飽,(Bão - No, bão hòa)
+的,(Đích - Mục đích)
+約,(Ước - Giao ước)
+酌,(Chước - Chuốc rượu)
+平,(Bình - Hòa bình)
+評,(Bình - Bình luận)
+坪,(Bình - Đo đất)
+呼,(Hô - Hô hấp)
+営,(Doanh - Kinh doanh)
+休,(Hưu - Nghỉ ngơi)
+林,(Lâm - Rừng thưa)
+呂,(Lữ - Bồn tắm)
+侶,(Lữ - Bạn)
+宮,(Cung - Cung điện)
+意,(Ý - Ý kiến)
+本,(Bản - Sách)
+体,(Thể - Cơ thể)
+森,(Sâm - Rừng rậm)
+保,(Bảo - Bảo hiểm)
+億,(Ức - 100 triệu)
+音,(Âm - Âm thanh)
+暗,(Ám - Ám ảnh)
+礎,(Sở - Cơ sở)
+鉢,(Bát - Cái bát)
+褒,(Bao - Khen ngợi)
+憶,(Ức - Ký ức)
+臆,(Ức - Rụt rè)
+闇,(Ám - U ám)
+床,(Sàng - Cái giường)
+条件,(điều - Điều kiện)
+杉,(Sam - Cây liễu sam)
+牛,(Ngưu - Trâu)
+件,(Kiện - Sự kiện)
+栄,(Vinh - Vinh quang)
+漆,(Tất - Cây sơn)
+午,(Ngọ - Buổi trưa)
+麻,(Ma - Cây lanh)
+摩,(Ma - Ma sát)
+磨,(Ma - Mài)
+魔,(Ma - Ma quỷ)
+呈,(Trình - Trình bày)
+程,(Trình - Lộ trình)
+聖,(Thánh - Thần thánh)
+国,(Quốc - Quốc gia)
+覚,(Giác - Nhớ ra)
+皇,(Hoàng - Hoàng đế)
+王,(Vương - Vua)
+玉,(Ngọc - Viên ngọc)
+宝,(Bảo - Bảo vật)
+見,(Kiến - Nhìn)
+目,(Mục - Mắt)
+視,(Thị - Thị lực)
+親,(Thân - Thân thích)
+懸,(Huyền - Cố gắng)
+算,(Toán - Tính toán)
+県,(Huyện - Tỉnh)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
